@@ -1,9 +1,5 @@
 # Table of contents
 
-## GROUPY
-
-* [Page 1](README.md)
-
-***
-
-* [SQL](sql.md)
+* [Overview](README.md)
+* [Statistics](statistics/README.md)
+  * [SubPage](statistics/subpage.md)
