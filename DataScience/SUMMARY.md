@@ -28,7 +28,7 @@
 * [💬 Data Science Communication](data-science-communication.md)
 * [🔽 Web Scraping](web-scraping.md)
 * [🐼 Pandas & Numpy](pandas-and-numpy/README.md)
-  * [✏ DataFrames](pandas-and-numpy/dataframes.md)
+  * [🐼 DataFrames](pandas-and-numpy/dataframes.md)
 * [🐍 Python Features](python-features.md)
 * [✏ SQL](sql.md)
 * [❔ Regex](regex.md)
