@@ -1,26 +1,22 @@
 # 🔍 Excel
 
-#### Pivot Tables
+### <mark style="color:yellow;">Pivot Tables</mark>
 
 Used to group data together to create aggregate results.
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/438ec31a-0889-46d8-80b1-c4a6704cae64/image.png)
 
-Columns - will become the column headers (no repeating)
-
-Rows - Will become the rows (no repeating)
-
+Columns - will become the column headers (no repeating)\
+Rows - Will become the rows (no repeating)\
 Values - The aggregate results
 
-Summary method - What to do with the values
-
+Summary method - What to do with the values\
 Generally, if there is a numerical and non numerical element, the non-numeric category is the row.
 
-Pivot tables don't automatically update.
-
+Pivot tables don't automatically update.\
 To refresh: Click refresh on the PivotTable Analyze tab
 
-#### Spark Lines
+### <mark style="color:yellow;">Spark Lines</mark>
 
 Small little line chart in a cell to represent a data trend
 
@@ -28,12 +24,9 @@ Small little line chart in a cell to represent a data trend
 
 In google sheets: SPARKLINE(range)
 
-#### Cleaning
+### <mark style="color:yellow;">Cleaning</mark>
 
-Useful functions
-
-\=LEFT( )
-
-\=LOWER( )
-
+Useful functions\
+\=LEFT( )\
+\=LOWER( )\
 \=TRIM( )

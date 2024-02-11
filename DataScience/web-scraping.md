@@ -1,12 +1,18 @@
 # 🔽 Web Scraping
 
-#### Before scraping
+## <mark style="color:red;">Before scraping</mark>
+
+***
 
 Check the website rules on data. Scraping shouldn't usually be for commercial use.
 
 No more than 1 request per webpage per second.
 
-#### Getting a URL request
+## <mark style="color:red;">Scraping</mark>
+
+***
+
+### <mark style="color:yellow;">Getting a URL request</mark>
 
 ```python
 import requests
@@ -15,7 +21,7 @@ webpage = requests.get( "url_string" )
 webpage_contents = webpage.contents
 ```
 
-#### Import Soup
+### <mark style="color:yellow;">Import Soup</mark>
 
 ```python
 from bs4 import BeautifulSoup
@@ -25,14 +31,14 @@ soup = BeautifulSoup( html_file, html.parser )
 
 _Other parsers are possible like lxml and html5lib_
 
-#### Scraping with Soup
+### <mark style="color:yellow;">Scraping with Soup</mark>
 
 ```python
 webpage = responses.get( "webpage_url" )
 soup = BeautifulSoup( webpage.text, "html.parser" )
 ```
 
-#### Tags
+### <mark style="color:yellow;">Tags</mark>
 
 BeautifulSoup breaks the page down into HTML tags.
 
@@ -65,11 +71,11 @@ for parent in soup.li.parents:
   print( parent )
 ```
 
-#### Dev Tools
+### <mark style="color:yellow;">Dev Tools</mark>
 
 Inspect the HTML in browser dev tools to find the HTML of what you want to scrape.
 
-#### Finding content
+### <mark style="color:yellow;">Finding content</mark>
 
 ```python
 # Return the first tag found
@@ -85,7 +91,7 @@ soup.find_all( tag )
 soup.find( [ "list", "of", "tags" ] )
 ```
 
-Using regex in soup find and find\_all
+### <mark style="color:yellow;">Using regex in soup find and find\_all</mark>
 
 ```python
 import re
@@ -95,7 +101,7 @@ soup.find_all( re.compile( "regex_expression" ) )
 
 _re.compile( " h\[1-9] " ) will return all headers_
 
-Using attributes to find elements
+### <mark style="color:yellow;">Using attributes to find elements</mark>
 
 ```python
 # Find all banners by attribute: class, banner
@@ -105,7 +111,7 @@ soup.find_all( attrs= { "class":"banner" } )
 soup.find_all(  attrs={ "class":"banner", "id":"something" })
 ```
 
-#### CSS Selection
+### <mark style="color:yellow;">CSS Selection</mark>
 
 ```python
 # .select() is for CSS
@@ -122,7 +128,7 @@ for link in soup.select( ".hyperlink > a" ):
   new_soup = BeautifulSoup(webpage)
 ```
 
-#### Reading text
+### <mark style="color:yellow;">Reading text</mark>
 
 ```python
 # Get one combined string
@@ -135,7 +141,9 @@ soup.get_text( "|" )
 name = soup.select( ".name" )[0].get_text( )
 ```
 
-#### Resources
+## <mark style="color:red;">Resources</mark>
+
+***
 
 {% embed url="https://www.codecademy.com/article/http-requests" %}
 

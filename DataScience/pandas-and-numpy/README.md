@@ -1,73 +1,73 @@
 # 🐼 Pandas & Numpy
 
-#### Importing pandas
+## <mark style="color:red;">Importing pandas</mark>
+
+***
 
 ```python
 import pandas as pd
 ```
 
-### NumPy & Scipy
+## <mark style="color:red;">NumPy & Scipy</mark>
 
 ***
 
-#### Numpy creating array
+### <mark style="color:yellow;">Numpy creating array</mark>
 
 ```python
 array = np.array( list )
 array = df.col.values
 ```
 
-#### Convert pandas series to log
+### <mark style="color:yellow;">Convert pandas series to log</mark>
 
 ```python
 log_series = np.log( df )
 ```
 
-#### Trimmed mean with scipy.stats
+### <mark style="color:yellow;">Trimmed mean with scipy.stats</mark>
 
 ```python
 from scipy.stats import trim_mean
 trim_mean(df.col, proportiontocut=0.1)
 ```
 
-_0.1 trims the 10% extreme values_
+_<mark style="color:green;">0.1 trims the 10% extreme values</mark>_
 
-#### NumPy min and max
+### <mark style="color:yellow;">NumPy min and max</mark>
 
 ```python
 np.amin( np_array )
 np.amax( np_array )
 ```
 
-#### NumPy count elements in array
+### <mark style="color:yellow;">NumPy count elements in array</mark>
 
 ```python
 np.count_nonzero( x == 5 )
 ```
 
-### CSV Operation
+## <mark style="color:red;">CSV Operation</mark>
 
 ***
 
-####
-
-#### **Read a CSV**
+### <mark style="color:yellow;">**Read a CSV**</mark>
 
 ```python
 df.read_csv ( "filename.csv" )
 ```
 
-#### **Write to CSV**
+### <mark style="color:yellow;">**Write to CSV**</mark>
 
 ```python
 df.to_csv ( "filename.csv" )
 ```
 
-### Pandas Series
+## <mark style="color:red;">Pandas Series</mark>
 
 ***
 
-#### Value Counts
+### <mark style="color:yellow;">Value Counts</mark>
 
 ```python
 df [ "column" ].value_counts ( sort = True, ascending = False, normalize = True )
@@ -75,15 +75,15 @@ df [ "column" ].value_counts ( sort = True, ascending = False, normalize = True 
 
 normalize=True will normalise the data to a decimal proportion of the total values, otherwise it will return the actual counts
 
-Pandas documentation
+### <mark style="color:yellow;">Pandas documentation</mark>
 
 ***
 
-### 10 Minutes to Pandas
+#### 10 Minutes to Pandas
 
 [https://pandas.pydata.org/docs/user\_guide/10min.html](https://pandas.pydata.org/docs/user\_guide/10min.html)
 
-### Pandas Merge
+#### Pandas Merge
 
 [https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.merge.html](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.merge.html)
 

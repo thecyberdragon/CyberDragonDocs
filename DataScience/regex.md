@@ -37,8 +37,6 @@ _\[ ] matches one character from the set_
 [^pog] = not p or o or g
 ```
 
-
-
 ## <mark style="color:red;">Wildcards</mark>
 
 ***
@@ -73,8 +71,6 @@ _\[ ] matches one character from the set_
 \D = non digit = [^0-9]
 \S = non whitespace = [^ \t\r\n\f\v]
 ```
-
-##
 
 ## <mark style="color:red;">Functions</mark>
 

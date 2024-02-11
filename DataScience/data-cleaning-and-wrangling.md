@@ -1,42 +1,53 @@
-# 🚿 Missing Data
+# 🚿 Data Cleaning & Wrangling
 
-#### Overview
+## <mark style="color:red;">Starting off</mark>
+
+***
+
+How many non-null observations are there?\
+How manyuinique columns and features do we have?\
+Which columns contain missing data?\
+What is the data type of each column?\
+Keep a record of cleaning / changes incase that might be needed later
+
+## <mark style="color:red;">**Missing Data**</mark>
+
+***
 
 Handling missing data helps increase accuracy of observations and gives us more statistical power.
 
-#### Reasons data might be missing
+### <mark style="color:yellow;">**Missing data terms**</mark>
 
-Systemic - Data not originally provided.
+Missing completely at random - Random missing data\
+Missing at random - Missing data by some sort of pattern\
+Structurally missing - optional or contextual data points
 
-1- Check data was uploaded correctly in the first place. Handle missing data by preventing it.
+### <mark style="color:yellow;">Reasons data might be missing</mark>
 
-2- Take a look at small chunks of data
+#### Systemic - Data not originally provided.
 
+1- Check data was uploaded correctly in the first place. Handle missing data by preventing it.\
+2- Take a look at small chunks of data\
 3- Look at statistics for the dataset
 
-#### Types of missing data
+### <mark style="color:yellow;">Types of missing data</mark>
 
-Structurally missing - Logical reasons for data to be missing
+<mark style="color:yellow;">Structurally missing</mark> - Logical reasons for data to be missing\
+<mark style="color:yellow;">Missing completely at random</mark> - All data has an equal chance of being missing\
+<mark style="color:yellow;">Missing at random</mark> - Likelihood different for different groups but equal within that group (sub group)\
+<mark style="color:yellow;">Missing not at random</mark> - There is some non-structural reason for the missing data
 
-Missing completely at random - All data has an equal chance of being missing
+### <mark style="color:yellow;">Methods to handle missing data</mark>
 
-Missing at random - Likelihood different for different groups but equal within that group (sub group)
+<mark style="color:yellow;">Impute</mark> - Taking the average to fill missing values\
+<mark style="color:yellow;">Interpolate</mark> - Generating values based on the distribution\
+<mark style="color:yellow;">Delete</mark> - Remove the observation
 
-Missing not at random - There is some non-structural reason for the missing data
-
-#### Methods to handle missing data
-
-Impute - Taking the average to fill missing values
-
-Interpolate - Generating values based on the distribution
-
-Delete - Remove the observation
-
-#### Metadata of the data
+### <mark style="color:yellow;">Metadata of the data</mark>
 
 Who compiled it, date, time, how etc.
 
-#### Deletion
+### <mark style="color:yellow;">Deletion</mark>
 
 Introduces the risk of bias.
 
@@ -68,15 +79,13 @@ df.dropna( subset=[ "col1","col2" ], inplace=True, how="any" )
 
 If a column is missing enough data, we may drop it entirely. This is only a last resort. More data is better than less. Generally, if the column is missing over 60% of the data.
 
-#### Single imputation
+### <mark style="color:yellow;">Single imputation</mark>
 
-Filling in a single missing field.
-
-Possible to introduce bias in the analysis.
-
+Filling in a single missing field.\
+Possible to introduce bias in the analysis.\
 Useful quick fix, but not sophisticated.
 
-LOCF - last observation carried forward. Good for when data is close together and consistent.
+#### LOCF - last observation carried forward. Good for when data is close together and consistent.
 
 ```python
 # Pandas data frame
@@ -86,7 +95,7 @@ df.col.ffill( axis=0, inplace=True )
 impyute.imputations.ts.locf( data, axis=0 )
 ```
 
-NOCB - Next observation carried backwards. If future data is consistent.
+#### NOCB - Next observation carried backwards. If future data is consistent.
 
 ```python
 # Pandas data frame
@@ -96,7 +105,7 @@ df.col.bfil( axis=0, inplace=True )
 impyute.imputation.ts.nocb( date, axis=0 )
 ```
 
-BOCF - Baseline observation carried forward. First value in data set
+#### BOCF - Baseline observation carried forward. First value in data set
 
 ```python
 # Pandas data frame
@@ -104,7 +113,7 @@ baseline = df.col[0]
 df.col.fillna( value=baseline, inplace=True )
 ```
 
-WOCF - Worst observation carried forward. Worst value in data set
+#### WOCF - Worst observation carried forward. Worst value in data set
 
 ```python
 # If low = worse
@@ -112,23 +121,18 @@ worst = df.col.min()
 df.col.fillna( value=worst, inplace=True )
 ```
 
-#### Multiple Imputation
+### <mark style="color:yellow;">Multiple Imputation</mark>
 
 Filling in multiple missing data multiple times.
 
-\-Assign placeholder value
-
-\-Remove missing data for one variable
-
-\-Predict values based on other variables
-
-\-Replace values in variable --> _Remove missing data for one variable_
-
+\-Assign placeholder value\
+\-Remove missing data for one variable\
+\-Predict values based on other variables\
+\-Replace values in variable --> _Remove missing data for one variable_\
 \-Integrate predicted values into dataset
 
-For missing at random categorical datasets.
-
-After each itteration, the variables should become more accurate.
+For missing at random categorical datasets.\
+After each iteration, the variables should become more accurate.
 
 The goal is to fill in the missing data so that it can find a model to best fit the dataset, typically either a normal or chi-square model.
 
@@ -169,7 +173,7 @@ imp = IterativeImputer(max_iter=20, randomstate=0)
 imp.fit( imputedf )
 ```
 
-What is the df\_test for????
+<mark style="color:red;">What is the df\_test for????</mark>
 
 #### Checking percentage of missing data per column
 
@@ -180,3 +184,8 @@ maxrows = df.id.count( )
 # Return per row the percentage of missing data
 print((1 - df.count( ) / maxrows) * 100)
 ```
+
+
+
+
+

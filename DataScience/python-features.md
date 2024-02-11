@@ -1,10 +1,14 @@
+---
+description: Features in python for data science not from the main data science libraries
+---
+
 # 🐍 Python Features
 
-### Strings
+## <mark style="color:red;">Strings</mark>
 
 ***
 
-#### Splitting by a delimiter
+### <mark style="color:yellow;">Splitting by a delimiter</mark>
 
 ```python
 array = string . split ( 'delimiter' )
@@ -16,7 +20,7 @@ second = array.str.get( 1 )
 
 ```
 
-#### Slicing a string
+### <mark style="color:yellow;">Slicing a string</mark>
 
 ```python
 string [ start_index : end_index ]
@@ -24,19 +28,17 @@ string [ start_index : end_index ]
 
 _Minus number can be used as indexes as well as empty space_
 
-#### Stripping Strings
+### <mark style="color:yellow;">Stripping Strings</mark>
 
 ```python
 new_str = str.lstrip( 'to_remove_from_left' )
 ```
 
-###
-
-### Probability
+## <mark style="color:red;">Probability</mark>
 
 ***
 
-#### A or B not A and B probability
+### <mark style="color:yellow;">A or B not A and B probability</mark>
 
 ```python
 prob_a = len(a) / len(all_values)
@@ -45,13 +47,13 @@ intersection = a.intersection(b)
 inter_prob = len(intersection) / len(all_values)
 ```
 
-_a\_or\_b = prob\_a + prob\_b - inter\_prob_
+_<mark style="color:green;">a\_or\_b = prob\_a + prob\_b - inter\_prob</mark>_
 
-### FIle operations
+## <mark style="color:red;">File Operations</mark>
 
 ***
 
-#### Glob
+### <mark style="color:yellow;">Glob</mark>
 
 ```python
 import glob

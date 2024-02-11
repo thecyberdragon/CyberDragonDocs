@@ -1,2 +1,2 @@
-# 🎲 Statistics
+# ✏ Statistics
 
