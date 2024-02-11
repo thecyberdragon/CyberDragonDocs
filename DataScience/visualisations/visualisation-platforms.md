@@ -8,7 +8,7 @@
 docker run -d --name=grafana -p 3000:3000 grafana/grafana-enterprise
 ```
 
-OS: Centos7 Minimal
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
 
 ## <mark style="color:red;">**Install metabase**</mark>
 
@@ -18,7 +18,7 @@ OS: Centos7 Minimal
 docker run -d -p 3000:3000 --name metabase metabase/metabase
 ```
 
-OS: Centos7 Minimal
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
 
 ## <mark style="color:red;">Apache Superset</mark>
 
@@ -188,11 +188,52 @@ git clone https://github.com/apache/superset.git
 superset run -p 8088 --with-threads --reload --debugger
 ```
 
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
 
+## <mark style="color:red;">Redash (Error)</mark>
 
+***
 
+**Install Node.JS**
 
+```
+curl -sL https://rpm.nodesource.com/setup_14.x | sudo bash -
+sudo yum install -y nodejs
+```
 
+**Install Yarn**
+
+```
+npm install --global yarn@1.22.10
+```
+
+**Install git**
+
+```
+sudo yum install -y git
+```
+
+**Clone and CD to redash git**
+
+```
+git clone https://github.com/getredash/redash.git
+cd redash/
+```
+
+**Secret Key**
+
+```
+nano .env
+REDASH_COOKIE_SECRET=secret_key
+```
+
+`ERROR`
+
+[https://www.restack.io/docs/data-visualization-tools](https://www.restack.io/docs/data-visualization-tools)\
+[https://redash.io/help/open-source/dev-guide/docker](https://redash.io/help/open-source/dev-guide/docker)\
+[https://redash.io/help/open-source/setup#docker](https://redash.io/help/open-source/setup#docker)
+
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
 
 ## To Do
 
