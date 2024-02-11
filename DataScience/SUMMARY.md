@@ -11,7 +11,7 @@
   * [🎲 Center and Scale](statistics/center-and-scale.md)
 * [🔍 Exploratory Data Analysis](exploratory-data-analysis/README.md)
   * [🔍 Excel](exploratory-data-analysis/excel.md)
-* [📊 Visualisations](visualisations/README.md)
+* [✏ Visualisations](visualisations/README.md)
   * [⚙ Matplotlib](visualisations/matplotlib.md)
   * [⚙ Seaborn](visualisations/seaborn.md)
   * [⚙ Statsmodels.api](visualisations/statsmodels.api.md)
