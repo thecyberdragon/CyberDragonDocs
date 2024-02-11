@@ -24,6 +24,7 @@
   * [📊 Pie Chart](visualisations/pie-chart.md)
   * [🌐 Tableau](visualisations/tableau.md)
   * [🌐 Power BI](visualisations/power-bi.md)
+  * [📈 Visualisation Platforms](visualisations/visualisation-platforms.md)
 * [🚿 Data Cleaning & Wrangling](data-cleaning-and-wrangling.md)
 * [💬 Data Science Communication](data-science-communication.md)
 * [🔽 Web Scraping](web-scraping.md)
