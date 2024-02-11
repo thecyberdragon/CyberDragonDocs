@@ -1,5 +1,9 @@
 # 📈 Visualisation Platforms
 
+## <mark style="color:red;">**Supported Connections**</mark>
+
+<table><thead><tr><th width="146">Platform</th><th width="124">MySQL</th><th width="114">PostGres</th><th width="101">SQLite</th><th>Google Sheets</th><th>CSV</th></tr></thead><tbody><tr><td>Grafana</td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td></tr><tr><td>Metabase</td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:red;">No</mark></td><td><mark style="color:red;">No</mark></td></tr><tr><td>Superset</td><td><mark style="color:green;">Yes</mark></td><td><mark style="color:green;">Yes</mark></td><td>?</td><td><mark style="color:green;">Yes</mark></td><td>?</td></tr></tbody></table>
+
 ## <mark style="color:red;">**Install Grafana**</mark>
 
 ***
@@ -8,7 +12,7 @@
 docker run -d --name=grafana -p 3000:3000 grafana/grafana-enterprise
 ```
 
-OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/operating-systems/linux-setup "mention")
 
 ## <mark style="color:red;">**Install metabase**</mark>
 
@@ -18,7 +22,7 @@ OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzd
 docker run -d -p 3000:3000 --name metabase metabase/metabase
 ```
 
-OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/operating-systems/linux-setup "mention")
 
 ## <mark style="color:red;">Apache Superset</mark>
 
@@ -188,7 +192,7 @@ git clone https://github.com/apache/superset.git
 superset run -p 8088 --with-threads --reload --debugger
 ```
 
-OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/operating-systems/linux-setup "mention")
 
 ## <mark style="color:red;">Redash (Error)</mark>
 
@@ -233,7 +237,7 @@ REDASH_COOKIE_SECRET=secret_key
 [https://redash.io/help/open-source/dev-guide/docker](https://redash.io/help/open-source/dev-guide/docker)\
 [https://redash.io/help/open-source/setup#docker](https://redash.io/help/open-source/setup#docker)
 
-OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/virtualisation/linux-setup "mention")
+OS: Centos7 Minimal -> [Linux Setup](https://app.gitbook.com/s/s5FF7hhZDUs2h4yzdZ19/operating-systems/linux-setup "mention")
 
 ## To Do
 
