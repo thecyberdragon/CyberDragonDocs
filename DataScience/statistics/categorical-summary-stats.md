@@ -1,6 +1,6 @@
 # 🎲 Categorical Summary Stats
 
-#### Ordered categorical data
+### <mark style="color:yellow;">Ordered categorical data</mark>
 
 Convert to categorical then use [cat.codes](http://cat.codes)
 
@@ -13,7 +13,7 @@ df[ "col" ].cat.codes
 
 The mean is not appropriate for ordinal categorical values as it assumes equal spacing between categories.
 
-#### Returning a category
+### <mark style="color:yellow;">Returning a category</mark>
 
 ```python
 # Specify the order
@@ -26,7 +26,7 @@ category_index = np.percentile( df.col.cat.codes, 0.25 )
 print( order[ int( category_index ) ] )
 ```
 
-#### Getting proportions from value counts
+### <mark style="color:yellow;">Getting proportions from value counts</mark>
 
 ```python
 # Manual way (takes into consideration missing data)
@@ -39,7 +39,7 @@ df.col.value_counts( normalize = True )
 df.col.value_counts( dropna = False )
 ```
 
-#### Getting the sum of a binary column
+### <mark style="color:yellow;">Getting the sum of a binary column</mark>
 
 ```python
 count = np.sum( df.col == "condition" )

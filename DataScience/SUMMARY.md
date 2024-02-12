@@ -2,7 +2,7 @@
 
 * [🧬 Overview](README.md)
   * [🧬 Resources](overview/resources.md)
-* [✏ Statistics](statistics/README.md)
+* [🎲 Statistics](statistics/README.md)
   * [🎲 Probability](statistics/probability.md)
   * [🎲 Linear Regression](statistics/linear-regression.md)
   * [🎲 Distributions](statistics/distributions.md)

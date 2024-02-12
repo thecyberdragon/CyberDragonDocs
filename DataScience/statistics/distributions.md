@@ -1,43 +1,32 @@
 # 🎲 Distributions
 
-#### Distribution types
-
-Normal distribution - symmetrical
-
-Skewed distribution - weighted on one side
-
-Skew is in direction of the tail
-
-Symmetric means there is one single peak
-
-#### Modality
-
-Unimodal - one single peak
-
-Bimodal - two peaks
-
-Multimodal - multiple peaks
-
-Uniform - no peaks
-
-### Calculations
+## <mark style="color:red;">Distributions</mark>
 
 ***
 
-####
+### <mark style="color:yellow;">Distribution types</mark>
 
-#### Types of average
+<mark style="color:yellow;">Normal distribution</mark> - symmetrical\
+<mark style="color:yellow;">Skewed distribution</mark> - weighted on one side
 
-Mean - center by average
+Skew is in direction of the tail\
+Symmetric means there is one single peak
 
-Median - center of all values in order (50th percentile) (2nd quartile)
+### <mark style="color:yellow;">Modality</mark>
 
-Mode - value of highest frequency (peak of distribution)
+<mark style="color:yellow;">Unimodal</mark> - one single peak\
+<mark style="color:yellow;">Bimodal</mark> - two peaks\
+<mark style="color:yellow;">Multimodal</mark> - multiple peaks\
+<mark style="color:yellow;">Uniform</mark> - no peaks
 
-Outliers are extreme values
+### <mark style="color:yellow;">Calculations & Types of average</mark>
 
-Median and IQR are robust as they're resistant to outliers
+<mark style="color:yellow;">Mean</mark> - center by averag\
+<mark style="color:yellow;">Median</mark> - center of all values in order (50th percentile) (2nd quartile)\
+<mark style="color:yellow;">Mode</mark> - value of highest frequency (peak of distribution)
 
+Outliers are extreme values\
+Median and IQR are robust as they're resistant to outliers\
 Interquartile range - range between quartile 1 and 3
 
 Numpy - Calculating Quartiles
@@ -51,22 +40,19 @@ np.percentile( value, [percentile_1, percentile_2] )
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/71d00a0f-8224-402b-b12f-1e2f3f74649f/image.png)
 
-#### Correlation
+### <mark style="color:yellow;">Correlation</mark>
 
 Correlation coefficient = -1 to 1, shows us about linear relationships
 
-Positive - higher variables are associate with other higher values
-
-Negative - higher variables are associated with other lower values
+<mark style="color:yellow;">Positive</mark> - higher variables are associate with other higher values\
+<mark style="color:yellow;">Negative</mark> - higher variables are associated with other lower values
 
 The further from 0, the stronger the association (looks more like a line)
 
-#### Covariance
+### <mark style="color:yellow;">Covariance</mark>
 
-Covariance is the strength between a linear relationship
-
-It ranges from minus infinity to infinity
-
+Covariance is the strength between a linear relationship\
+It ranges from minus infinity to infinity\
 Higher numbers show a stronger linear relationship
 
 ```python
@@ -79,7 +65,7 @@ Example output
 
 _Covariable = 228.2_
 
-#### Pearson Correlation
+### <mark style="color:yellow;">Pearson Correlation</mark>
 
 Pearson Correlation is the same but ranges from -1 to 1
 
@@ -88,7 +74,7 @@ from scipy.stats import pearsonr
 result, p = pearsonr( df.val1, df.val2 )
 ```
 
-#### Variance
+### <mark style="color:yellow;">Variance</mark>
 
 Is the distance of each data point from the mean and finding the average.
 
@@ -105,10 +91,9 @@ Variance = sigma squared
 variance = np.var( array_of_values )
 ```
 
-#### Standard Deviation
+### <mark style="color:yellow;">Standard Deviation</mark>
 
-The square root of the variance.
-
+The square root of the variance.\
 Standard deviation is written as sigma.
 
 ```python
@@ -121,12 +106,9 @@ standard_deviation = variance ** 0.5
 standard_deviation = np.std( array_of_values )
 ```
 
-68% of data should be within 1 standard deviation of the mean
-
-95% should be within 2 standard deviations of the mean
-
-99.7% should be within 3 standard deviations of the mean
-
+68% of data should be within 1 standard deviation of the mean\
+95% should be within 2 standard deviations of the mean\
+99.7% should be within 3 standard deviations of the mean\
 Over 3 means a very out of place bit of data
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/9f8ddd30-3623-4be9-8122-d03db5bc5235/image.png)
@@ -140,14 +122,9 @@ individual = value - group_mean
 individual_std = individual / group_std
 ```
 
-### Random Variables
+### <mark style="color:yellow;">Random Variables</mark>
 
-***
-
-#### Overview
-
-Must be numeric
-
+Must be numeric\
 If categoric, numbers should be used in place of the categories
 
 Random
@@ -156,8 +133,7 @@ Random
 outcomes = np.random.choice ( range, size = 2, replace = True )
 ```
 
-_size is how many values to choose_
-
+_size is how many values to choose_\
 _replace = False removes that outcome from the pool, replace = True does not_
 
 Generate a random distribution with numpy
@@ -166,7 +142,7 @@ Generate a random distribution with numpy
 random = np.random.choice( [ "heads","tails" ], size = number, p = [ 0.5, 0.5 ] )
 ```
 
-#### Probability mass function
+### <mark style="color:yellow;">Probability mass function</mark>
 
 The probability of an exact random discrete value in a range happening
 
@@ -195,7 +171,7 @@ binom.pmf ( observed_value, sample, probaility ) + binom.pmf ( observed_value, s
 
 _If using the 1- method, the scipy codes need to be enclosed in brackets_
 
-#### Probability density function
+### <mark style="color:yellow;">Probability density function</mark>
 
 Like cumulative distribution function but for continuous random variables
 
@@ -205,7 +181,7 @@ Cumulative distribution function can be used on a continuous distribution to fin
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/b2266710-32b0-49ce-a95b-386d96e4be50/image.png)
 
-#### Cumulative distribution function (discrete and continuous)
+### <mark style="color:yellow;">Cumulative distribution function (discrete and continuous)</mark>
 
 The same as the PMF above, but it's accumulative, with the idea that everything increases cumulatively. The calculation will be the probability of all values up to x occurring.
 
@@ -264,7 +240,7 @@ if p / 2 <= cdf <= 1 - p / 2: print( "likely" )
 else: print( "unlikely" )
 ```
 
-#### Poissons probability mass function
+### <mark style="color:yellow;">Poissons probability mass function</mark>
 
 Calculating exact values of discrete values from a random distribution using an average as lambda and influences the covariance. Can be used to model random data.
 
@@ -342,47 +318,37 @@ percentile_val = stats.poisson.ppf ( percentile, lambda )
 
 _Percentile is a decimal._
 
-### Distributions
+### <mark style="color:yellow;">Sampling Distributions</mark>
 
-***
-
-#### Sampling Distributions
-
-You can create a a set of same-size samples and find the mean, then add those to a list of sample means to create a sample distribution showing the distribution of all mean values in each randomly created dataset.
+You can create a set of same-size samples and find the mean, then add those to a list of sample means to create a sample distribution showing the distribution of all mean values in each randomly created dataset.
 
 You can sample any aggregate of a data set - minimum, maximum, mean, median etc
 
-#### Central Limit Theorem
+### <mark style="color:yellow;">Central Limit Theorem</mark>
 
-Allows us to describe the sampling distribution of the mean.
-
-Sample sizes over 30 are generally a good idea.
-
-Is the population is not to skewed or the sample is large enough, the mean will be distributed.
-
+Allows us to describe the sampling distribution of the mean.\
+Sample sizes over 30 are generally a good idea.\
+Is the population is not to skewed or the sample is large enough, the mean will be distributed.\
 Only applies to the mean.
 
 If the original distribution is normally distributed then small sample sizes will align with the distribution.
 
-#### Standard Error
+### <mark style="color:yellow;">Standard Error</mark>
 
 The standard deviation of a sampling distribution is also standard error or the estimate of the mean.
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/4f7c9c64-67a2-4e85-833a-31ef31e8f209/image.png)
 
-As sample size increases the standard error will decrease.
-
+As sample size increases the standard error will decrease.\
 As the standard deviation increases so will the standard error.
 
-#### Unbiased Estimator
+### <mark style="color:yellow;">Unbiased Estimator</mark>
 
-The mean of the mean distribution is the population mean.
-
-When the sample distribution value is equal to the actual population value it's an unbiased estimator.
-
+The mean of the mean distribution is the population mean.\
+When the sample distribution value is equal to the actual population value it's an unbiased estimator.\
 Max is a biased estimator because it is not centered on the population maximum.
 
-#### Confidence Interval
+### <mark style="color:yellow;">Confidence Interval</mark>
 
 Normally distributed values are within 1.96 standard deviations of the mean.
 
@@ -392,39 +358,32 @@ Multiply 1.96 by the standard error (say it's 2.5)
 
 The confidence interval says we're 95% confident that the original mean is 2.5 each way off the actual population mean. If the observed mean is 18, then we're 95% confident the actual mean is between 15.5 - 20.5
 
-#### P-Values
+### <mark style="color:yellow;">P-Values</mark>
 
 0.05 or 5% is a good standard. Below is significant, above is not.
 
 A significant p value we reject the null hypothesis.
 
-Type I error - Finding a significant p value when the null hypothesis is true
-
+Type I error - Finding a significant p value when the null hypothesis is true\
 Type II error - Finding a non significant p value when the null hypothesis is false
 
-You can run a type I test by using a randomised range and calculate the p value using a binomial test.
-
-If the p-value is lower than the significance threshold (0.05) then +1 to an int of false positives.
-
+You can run a type I test by using a randomised range and calculate the p value using a binomial test.\
+If the p-value is lower than the significance threshold (0.05) then +1 to an int of false positives.\
 Then divide by the range loop and see if it's close to the threshold to avoid making a type I error.
 
 The significance threshold for a test is equal to the type I error rate.
 
-### Contingency Tables and chi2
+### <mark style="color:yellow;">Contingency Tables and chi2</mark>
 
-***
-
-Contingency tables can be used to show frequency and proportion.
-
-You can find the expected results if there was a correlation with chi2\_contingency.
-
+Contingency tables can be used to show frequency and proportion.\
+You can find the expected results if there was a correlation with chi2\_contingency.\
 You can compare the expected table with with the actual table.
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/2a9eaace-e3f5-4b90-bc0d-063c3f361d51/image.png)
 
 Marginal proportions represent the distribution in a contingency table.
 
-Cross Table
+#### Cross Table
 
 ```python
 # Creating cross table
@@ -454,7 +413,7 @@ chi2 = chi square. Higher than the area of the table is a positive association
 
 expected = expected cross table
 
-### Inferential Statistics
+## <mark style="color:red;">Inferential Statistics</mark>
 
 ***
 
@@ -464,7 +423,7 @@ Samples do not always reflect the population they came from. Part of inferential
 
 Regression analysis is used to see if relationships in samples reflect the larger population.
 
-#### Z Tests
+### <mark style="color:yellow;">Z Tests</mark>
 
 This is like a T Test to see if an observation is statistically likely within a distribution and can be used on large datasets when you know the distribution standard deviation.
 
@@ -481,25 +440,21 @@ value_z = abs( ( observation - distribution_mean ) / distribution_std )
 if value_z  < z_threshhold: "It's statistically likely"
 ```
 
-#### T-Tests (quantitative testing)
+### <mark style="color:yellow;">T-Tests (quantitative testing)</mark>
 
-Null hypothesis - The differences are down to chance / variance
-
+Null hypothesis - The differences are down to chance / variance\
 Alternative hypothesis - There is an observable testable difference
 
 Null hypothesis - you can generate a null distribution using poissons distribution of means of a sample. You can plot the population mean on the distribution to see if it's within the null distribution.
 
-Assumptions to verify:
-
-\-The sample was randomly selected
-
-\-Observations were independent
-
+Assumptions to verify:\
+\-The sample was randomly selected\
+\-Observations were independent\
 \-The data is distributed without outliers or the sample is large enough ( > 40 )
 
 T-tests can still be run without these assumptions being verified, but it should be stated as such.
 
-One-sided t-test
+#### One-sided t-test
 
 ```python
 from scipy.stats import ttest_1samp
@@ -516,47 +471,42 @@ The probability of observing an average over or equal to the population average 
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/24ffc985-3d2a-4d92-baea-9409cde57ac9/image.png)
 
-_Average = 30, sample average = 1.24 points higher._
-
-If the sample mean is truly equal to (greater or less than) the population mean.
-
+_Average = 30, sample average = 1.24 points higher._\
+If the sample mean is truly equal to (greater or less than) the population mean.\
 The probability of observing an average over or below the population average.
 
 (Two-tailed test)
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/12fe18d0-6882-4831-9819-5de7ac0064dd/image.png)
 
-If the sample mean is truly less than the population mean.
-
+If the sample mean is truly less than the population mean.\
 The probability of observing an average below the population average.
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/5af90dab-486b-424f-ae2f-df2f4ee7fe9f/image.png)
 
 Example p-values:
 
-Greater than average population (if null hypothesis were true) - 0.031 (3% chance)
-
-Not equal to average population (if null hypothesis were true) - 0.062 (6% chance)
-
+Greater than average population (if null hypothesis were true) - 0.031 (3% chance)\
+Not equal to average population (if null hypothesis were true) - 0.062 (6% chance)\
 Less than average population (if null hypothesis were true) - 0.969 (97% chance)
 
 If the null hypothesis were true, then the observation would be 3% likely (so it's not).
 
 Rejecting the null hypothesis doesn't mean proving the alternative hypothesis, only shown it to be more consistent with the observation.
 
-Numpy one-sided p-value
+#### Numpy one-sided p-value
 
 ```cpp
 p_val = np.sum( np_array == "something" ) / len ( full_sample )
 ```
 
-Numpy two-sided p-value
+#### Numpy two-sided p-value
 
 ```python
 p_val = np.sum( ( array < 2 ) | ( array > 8 ) ) / len( full_sample )
 ```
 
-Scipy binom test
+#### Scipy binom test
 
 ```python
 from scipy.stats import binom_test
