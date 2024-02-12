@@ -24,7 +24,7 @@ Repeating an experiment a large number of times to get close to the true probabi
 
 Union - A or B
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/6709e7ba-bf85-4d0f-b76b-2e5dfba0e7a0/image.png)
+![](https://images4.imagebam.com/fa/53/2a/MERZS74\_o.png)
 
 Intersection - A and B
 
