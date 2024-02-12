@@ -1,6 +1,8 @@
 # 📊 Line Charts
 
-### **Purpose**
+## <mark style="color:red;">**Purpose**</mark>
+
+***
 
 Track changes over time
 
@@ -8,7 +10,7 @@ Track changes over time
 
 _A point on a time series it call cross-sectional data._
 
-#### Matplotlib Line Chart
+### <mark style="color:yellow;">Matplotlib Line Chart</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/8dabd87d-56fa-47a3-a140-7a67ae9c11bc/image.png)
 
@@ -23,7 +25,7 @@ plt.axis( [ x_min, x_max, y_min, y_max ] )
 plt.legend( )
 ```
 
-#### Specify colours and line style
+### <mark style="color:yellow;">Specify colours and line style</mark>
 
 ```python
 # Plot 1 as blue
@@ -39,7 +41,7 @@ plt.legend( [ label_1, label_2 ], loc = 1-9 )
 
 _marker = "o" / "s" / "\*" (circle, square, star) <- The points on the line chart_
 
-#### Manually set fill region
+### <mark style="color:yellow;">Manually set fill region</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/0c307737-564e-4ef2-b1f9-86a44e08ee00/image.png)
 

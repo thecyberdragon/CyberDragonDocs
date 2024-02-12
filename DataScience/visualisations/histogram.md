@@ -1,16 +1,20 @@
 # 📊 Histogram
 
-### Purpose
+## <mark style="color:red;">Purpose</mark>
+
+***
 
 Show distributions
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/bae8ed3b-b65e-441b-b20d-c10844ba8c55/image.png)
 
-####
+## <mark style="color:red;">Python Code</mark>
 
-### Seaborn Histogram
+***
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/c79f4313-8c2b-4b05-870c-7a15eea77b45/Untitled.png)
+
+### <mark style="color:yellow;">Seaborn Histogram</mark>
 
 ```python
 import seaborn as sns
@@ -26,7 +30,7 @@ plt.clf( )
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/7ab00ba9-e4f8-493a-a7d2-513d80f95958/Untitled.png)
 
-### Matplot Lib Histogram
+### <mark style="color:yellow;">Matplot Lib Histogram</mark>
 
 ```python
 import matplotlib.pyplot as plt
@@ -38,8 +42,6 @@ plt.hist(x = "column", data = df )
 plt.show( )
 plt.clf( )
 ```
-
-####
 
 #### Matplotlib - AX Line, bins, range
 
@@ -57,13 +59,11 @@ plt.show( )
 plt.clf( )
 ```
 
-_Axvline creates a vertical line on the graph_
-
-Bins are how many bars are on the histogram
-
+_Axvline creates a vertical line on the graph_\
+Bins are how many bars are on the histogram\
 Range can be specified to only show a certain range of values
 
-#### Matplotlib - Step-style probability density histogram
+### <mark style="color:yellow;">Matplotlib - Step-style probability density histogram</mark>
 
 ```python
 import matplotlib.pyplot as plt
@@ -77,11 +77,10 @@ plt.show( )
 plt.clf( )
 ```
 
-Histtype step only shows the outline
-
+Histtype step only shows the outline\
 Density normalises the distributions so they're comparable
 
-#### Matplotlib - Overlapping alpha histograms (normed)
+### <mark style="color:yellow;">Matplotlib - Overlapping alpha histograms (normed)</mark>
 
 ```python
 import matplotlib.pyplot as plt
@@ -95,16 +94,15 @@ plt.show( )
 plt.clf( )
 ```
 
-_Overlapping histogram. Normaled values normalises the proportions._
+_<mark style="color:green;">Overlapping histogram. Normaled values normalises the proportions.</mark>_
 
-#### Numpy Histogram
+### <mark style="color:yellow;">Numpy Histogram</mark>
 
 ```python
 np.histogram( np_array, range = ( min, max ) bins = x )
 ```
 
-_This returns two arrays, not an image._
+_<mark style="color:green;">This returns two arrays, not an image.</mark>_
 
-Array 1 is the counts for each bin
-
+Array 1 is the counts for each bin\
 Second array contains the value ranges for each bin

@@ -1,18 +1,20 @@
 # 📊 Bar Chart
 
-### **Overview**
+## <mark style="color:red;">**Overview**</mark>
+
+***
 
 Show different variables or values
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/19530af9-c0db-4a69-a980-1b3a86d9e632/image.png)
 
-## Python Code
+## <mark style="color:red;">Python Code</mark>
 
 ***
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/35b17646-1981-479a-901a-fcfd2b8d32a0/Untitled.png)
 
-### Seaborn Bar Chart
+### <mark style="color:yellow;">Seaborn Bar Chart</mark>
 
 ```python
 import seaborn as sns
@@ -26,7 +28,7 @@ plt.show( )
 plt.clf( )
 ```
 
-#### Cat Plot
+### <mark style="color:yellow;">Cat Plot</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/a6abc882-bdd8-49eb-9b82-5a318ebae099/image.png)
 
@@ -38,7 +40,7 @@ sns.catplot( data=df, kind="bar", x="field", y="field", height = 6, aspect = 2 )
 sns.catplot( x = "x_col", col = "col_per_chart", data = df, kind = "count", height = 6, aspect = 2 )
 ```
 
-#### Count Plots
+### <mark style="color:yellow;">Count Plots</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/8cb4402d-9ab9-4b2b-ac26-1ab6f551f7cc/Untitled-1.png)
 
@@ -53,7 +55,7 @@ sns.countplot( data[ "column" ], order = [ "list", "of", "values" ] )
 sns.countplot( data[ "column" ], order = data[ "column" ].value_counts( ).index )
 ```
 
-### Pyplot Bar Chart
+### <mark style="color:yellow;">Pyplot Bar Chart</mark>
 
 ```python
 import matplotlib.pyplot as plt
@@ -66,7 +68,7 @@ plt.show( )
 plt.clf( )
 ```
 
-#### Side-By-Side Bar Chart
+### <mark style="color:yellow;">Side-By-Side Bar Chart</mark>
 
 ```python
 # Variables to use
@@ -95,7 +97,7 @@ middle_x = [ ( a + b ) / 2.0 for a, b in zip( x_values1, x_values2 ) ]
 
 _To get side by side bars using pyplot_
 
-#### Stacking Bars
+### <mark style="color:yellow;">Stacking Bars</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/25080dc8-cfbc-49a2-b904-6deb9e8e1127/image.png)
 
@@ -114,7 +116,7 @@ plt.show( )
 plt.clf( )
 ```
 
-#### Error Bars
+### <mark style="color:yellow;">Error Bars</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/3ceeb382-2533-4bc5-aba4-77893625db4a/image.png)
 
@@ -125,10 +127,7 @@ import matplotlib.pyplot as plt
 plt.bar( x_values, x_numbers, yerr = number, capsize = 10 )
 ```
 
-_The top and bottom of the lines are 'caps'_
-
-yerr is the error range
-
-capsize is the width of the cap on the graph
-
+_The top and bottom of the lines are 'caps'_\
+yerr is the error range\
+capsize is the width of the cap on the graph\
 yerr can also equal a list to have different sizes

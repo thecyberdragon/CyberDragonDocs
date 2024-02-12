@@ -4,7 +4,7 @@
 import statsmodels.api as sm
 ```
 
-#### Line of best fit using OLS
+### <mark style="color:yellow;">Line of best fit using OLS</mark>
 
 ```python
 import statsmodels.api as sm
@@ -22,15 +22,12 @@ results.params
 results.summary ( )
 ```
 
-_params shows the intercept and height (slope)_
-
-_model is a new data set we don't see called the x matrix_
-
-The order of the x and y matter
-
+_params shows the intercept and height (slope)_\
+_model is a new data set we don't see called the x matrix_\
+The order of the x and y matter\
 You're predicting x from y
 
-#### Predicting a value
+### <mark style="color:yellow;">Predicting a value</mark>
 
 ```cs
 new_data = { "parameter": [ value ] }

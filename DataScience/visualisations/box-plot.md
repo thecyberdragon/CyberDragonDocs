@@ -1,12 +1,16 @@
 # 📊 Box Plot
 
-### Diagram
+## <mark style="color:red;">Diagram</mark>
+
+***
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/c7e35c2f-968b-4a8a-8fba-1d678cb03146/image.png)
 
-####
+## <mark style="color:red;">Python Code</mark>
 
-### Seaborn
+***
+
+### <mark style="color:yellow;">Seaborn</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/6b1f62be-b969-4ed6-a564-43704a644050/Untitled-1.png)
 
@@ -38,7 +42,7 @@ plt.show( )
 plt.clf( )
 ```
 
-#### MatplotLib
+### <mark style="color:yellow;">MatplotLib</mark>
 
 ```python
 plt.boxplot( dataset )

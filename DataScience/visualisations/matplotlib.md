@@ -1,16 +1,12 @@
 # ⚙ Matplotlib
 
-### Importing
-
-***
+### <mark style="color:yellow;">Importing</mark>
 
 ```python
 import matplotlib.pyplot as plt
 ```
 
-### Labels & Axis
-
-***
+### <mark style="color:yellow;">Labels & Axis</mark>
 
 ```python
 plt.xlabel( "name of x label" )
@@ -29,9 +25,7 @@ plt.ylim(0, 1e12)
 
 _This is to set the y limit. The number is the digit limit. 12 being 1 followed by 12 0's._
 
-### Clearing the plot
-
-***
+### <mark style="color:yellow;">Clearing the plot</mark>
 
 ```python
 plt.show ( ) 
@@ -43,9 +37,7 @@ plt.close ( )
 plt.clf ( )
 ```
 
-### Subplots
-
-***
+### <mark style="color:yellow;">Subplots</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/8a6e2765-694e-4461-8224-c006b50d733a/image.png)
 
@@ -92,7 +84,7 @@ plt.tight_layout( )
 # Should auto the margins
 ```
 
-### Making 3D plots
+### <mark style="color:yellow;">Making 3D plots</mark>
 
 ```
 fig = plt.figure( )
@@ -138,9 +130,7 @@ ax.invert_yaxis( )
 plt.close("all")
 ```
 
-### Figures
-
-***
+### <mark style="color:yellow;">Figures</mark>
 
 ```python
 fig = plt.figure( figsize = ( x, y ) )
@@ -153,12 +143,10 @@ plt.savefig( "file_name.png" )
 plt.figure(1)
 ```
 
-###
-
-### Colours
+### <mark style="color:yellow;">Colours</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/ff8bf454-86bd-42cc-a109-d948218fbb5b/image.png)
 
-### Documentation
+### <mark style="color:yellow;">Documentation</mark>
 
 [https://matplotlib.org/](https://matplotlib.org/)

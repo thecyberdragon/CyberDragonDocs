@@ -1,23 +1,25 @@
 # 🌐 Power BI
 
-SUM = sum of the values in a column
+### <mark style="color:yellow;">Aggregation</mark>
 
+SUM = sum of the values in a column\
 SUMX = iterative through each row as opposed to taking all values
 
-Drill down / up
+### <mark style="color:yellow;">Functions</mark>
 
+Drill down / up\
 Becomes available when you add multiple values to your axis
 
-Conditional formatting
+### <mark style="color:yellow;">Conditional formatting</mark>
 
 Data bars only available on summaries columns
 
-New > group
+### <mark style="color:yellow;">Grouping</mark>
 
-Groups create lists of bins
-
+New > group\
+Groups create lists of bins\
 Dates can be specified by days, weeks, months etc
 
-Lists
+### <mark style="color:yellow;">Lists</mark>
 
 Basically an easy IF statement column

@@ -1,134 +1,125 @@
 # 📊 Visualisations
 
-## Visualisations
-
-####
-
-#### Overview
+## <mark style="color:red;">Overview & Process</mark>
 
 ***
 
+### <mark style="color:yellow;">**Terminology**</mark>
 
-
-**Terminology**
-
-**Univariate** - show 1 variable - Usually a count or distribution
-
-**Bivariate** - show 2 variables
-
+**Univariate** - show 1 variable - Usually a count or distribution\
+**Bivariate** - show 2 variables\
 **Multivariable** - show more than that
 
-**Process of visualising**
+### <mark style="color:yellow;">**Process of visualising**</mark>
 
-Preparing
-
-Visualising
-
+Preparing\
+Visualising\
 Styling
 
-Picking a chart to use
-
-What is the question being asked?
-
+Picking a chart to use\
+What is the question being asked?\
 What type of data is being worked with?
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/a2d12554-65b0-45ab-933c-5caba64758bb/image.png)
 
-**Concepts**
-
-**Aesthetics**
-
-Size, Shape, Colour, Position, Pattern
-
-**Information redundancy**
-
-Showing the same info twice in two different ways
-
-Helps for prioritising data visually
-
-Helps key data points stand out
-
-**Provide necessary details**
-
-Include context for the audience
-
-Avoid chart junk
-
-**Accessibility (universal design)**
-
-Hue + Value (colour blind)
-
-Good colour comparisons use contrasting to show values
-
-Make font large enough
-
-Keep the reading level to high school level
-
-Define unfamiliar terms
-
-Pace and organise information to avoid overload
-
-Data does not speak for itself
-
-Own the viz as author
-
-Providing context or a summary helps prevent misunderstanding or false conclusions
-
-#### Misc Charts
+## <mark style="color:red;">**Concepts**</mark>
 
 ***
 
-**Map (geography) - Univariate**
+### <mark style="color:yellow;">**Aesthetics**</mark>
+
+Size, Shape, Colour, Position, Pattern
+
+### <mark style="color:yellow;">**Information redundancy**</mark>
+
+Showing the same info twice in two different ways\
+Helps for prioritising data visually\
+Helps key data points stand out
+
+### <mark style="color:yellow;">**Provide necessary details**</mark>
+
+Include context for the audience\
+Avoid chart junk
+
+### <mark style="color:yellow;">**Accessibility (universal design)**</mark>
+
+Hue + Value (colour blind)\
+Good colour comparisons use contrasting to show values\
+Make font large enough\
+Keep the reading level to high school level\
+Define unfamiliar terms\
+Pace and organise information to avoid overload\
+Data does not speak for itself\
+Own the viz as author\
+Providing context or a summary helps prevent misunderstanding or false conclusions
+
+## <mark style="color:red;">Misc Charts</mark>
+
+***
+
+### <mark style="color:yellow;">**Map (geography) - Univariate**</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/7be7a48f-78a1-45ae-931b-6b44f6e90e0b/image.png)
 
-**Lag Plots**
+### <mark style="color:yellow;">**Lag Plots**</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/f9ca13bc-2e86-4cee-83bc-3e28fb5167ca/image.png)
 
 Shows whether the lag (previous point) in a dataset correlates with the current data. Randomness suggests there is no relationship. A lag is the smallest increment back one step. Lag 2 is 2 steps back etc.
 
-**Autocorrelation Plot**
+```python
+from pandas.plotting import lag_plot
+lag_plot( df )
+plt.show( )
+```
+
+_<mark style="color:green;">Lag pot code with pandas</mark>_
+
+### <mark style="color:yellow;">**Autocorrelation Plot**</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/0be7b170-d6b4-4b5a-99e3-08f286a20272/image.png)
 
-Being close to 0 suggests a weak correlation. Being closer to 1 or -1 indicates a stronger correlation.
-
-Positive correlations are + numbers while negative correlations as -
-
-Oscillation like above indicates a seasonality or fluctuation.
-
+Being close to 0 suggests a weak correlation. Being closer to 1 or -1 indicates a stronger correlation.\
+Positive correlations are + numbers while negative correlations as -\
+Oscillation like above indicates a seasonality or fluctuation.\
 Decreasing oscillation over time shows a lack of correlation over time
 
-**Heatmaps**
+```python
+from pandas.plotting import autocorrelation_plot
+autocorrelation_plot( df )
+```
+
+_<mark style="color:green;">Shows if points in a time series are correlated or not</mark>_
+
+### <mark style="color:yellow;">**Heatmaps**</mark>
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/37653b8a-5ebc-41d9-aa53-4036916bad22/image.png)
 
 Shows the difference in values as colour temperature
 
-**Stacked Charts**
+### <mark style="color:yellow;">**Stacked Charts**</mark>
 
 Stacked charts aren't great for showing proportions, either in char charts of line charts.
 
 [https://developers.google.com/chart/interactive/docs/gallery/barchart#stacked-bar-charts](https://developers.google.com/chart/interactive/docs/gallery/barchart#stacked-bar-charts)
 
-#### **Design - Colour**
+## <mark style="color:red;">**Design - Colour**</mark>
 
 ***
 
-#### **Sequential**
+### <mark style="color:yellow;">**Sequential**</mark>
 
 Same hue at different intensities
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/2f07a164-b2ee-47ba-8072-e0dbf0ba0736/image.png)
 
-**Divergent**
+### <mark style="color:yellow;">**Divergent**</mark>
 
 Two opposing colours to show two sides of a scale
 
 ![](https://t20664121.p.clickup-attachments.com/t20664121/720ffc1a-93a8-4193-b257-b88073cca9a8/image.png)
 
-**Categorical**
+### <mark style="color:yellow;">**Categorical**</mark>
 
 A colour per category
 
@@ -136,43 +127,23 @@ A colour per category
 
 We tend to see darker = more and lighter = less
 
-**Colours**
+### <mark style="color:yellow;">**Colours**</mark>
 
 Red & Green aren't super great colours for colourblind viewers.
 
 [http://seaborn.pydata.org/tutorial/color\_palettes.html](http://seaborn.pydata.org/tutorial/color\_palettes.html)
 
-#### Design - Title & Description
+## <mark style="color:red;">Design - Title & Description</mark>
 
-A title is one of the best immediate tools for making the graph explainable
+***
 
-Titles can be descriptive or questions
-
-Annotations help show the reader what's going on
-
-Annotations are great for highlighting key details or outliers
-
+A title is one of the best immediate tools for making the graph explainable\
+Titles can be descriptive or questions\
+Annotations help show the reader what's going on\
+Annotations are great for highlighting key details or outliers\
 Avoid confusion & avoid deception
 
 [https://datavizcatalogue.com/](https://datavizcatalogue.com/)
 
-## Code to Wrangle
-
-**Lag Plots**
-
 ```
-from pandas.plotting import lag_plot
-lag_plot( df )
-plt.show( )
 ```
-
-_Lag pot code with pandas_
-
-**Autocorrelation plot**
-
-```
-from pandas.plotting import autocorrelation_plot
-autocorrelation_plot( df )
-```
-
-_Shows if points in a time series are correlated or not_
