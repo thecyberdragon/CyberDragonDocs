@@ -31,5 +31,6 @@
 * [🐼 Pandas & Numpy](pandas-and-numpy/README.md)
   * [🐼 DataFrames](pandas-and-numpy/dataframes.md)
 * [🐍 Python Features](python-features.md)
-* [✏ SQL](sql.md)
+* [✏ SQL](sql/README.md)
+  * [✏ SQL CheatSheet](sql/sql-cheatsheet.md)
 * [❔ Regex](regex.md)
