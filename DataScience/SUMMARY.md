@@ -34,3 +34,4 @@
 * [✏ SQL](sql/README.md)
   * [✏ SQL CheatSheet](sql/sql-cheatsheet.md)
 * [❔ Regex](regex.md)
+* [🧑🔬 Projects](projects.md)
