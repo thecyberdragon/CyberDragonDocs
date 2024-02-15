@@ -4,7 +4,7 @@
 
 Used to group data together to create aggregate results.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/438ec31a-0889-46d8-80b1-c4a6704cae64/image.png)
+![](https://images4.imagebam.com/92/ac/f7/MES1Q6T\_o.png)
 
 Columns - will become the column headers (no repeating)\
 Rows - Will become the rows (no repeating)\
@@ -20,7 +20,7 @@ To refresh: Click refresh on the PivotTable Analyze tab
 
 Small little line chart in a cell to represent a data trend
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/1201ed10-649b-4cd4-9446-9af4eb63ef5a/image.png)
+![](https://images4.imagebam.com/c9/e4/75/MES1Q6U\_o.png)
 
 In google sheets: SPARKLINE(range)
 

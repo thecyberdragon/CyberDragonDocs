@@ -31,14 +31,14 @@ y = mx + b + error
 
 The best line minimises the total squared error for all data points. (loss)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/7ee82c15-ac6a-469e-83e3-bc5120646f96/image.png)
+![](https://images4.imagebam.com/1f/ca/55/MES1OO1\_o.png)
 
 Loss = distance\_from\_line squared + for all points\
 Loss = ( -1 )2 + ( 3 )2 = 1 + 9 = 10
 
 #### Fitted values and residuals
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/10d7f702-9c48-4dad-a69e-9a46db879291/image.png)
+![](https://images4.imagebam.com/36/7d/ac/MES1OO2\_o.png)
 
 ```python
 import statsmodels.api as sm
@@ -72,7 +72,7 @@ Patters or asymmetry indicate the assumption is not met and linear regression mi
 
 Get the grouped mean of each binary value and draw a line from mean to mean.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/f3120b66-a239-42ee-93df-843eda36c89b/image.png)
+![](https://images4.imagebam.com/21/8d/0c/MES1OO0\_o.png)
 
 ### <mark style="color:yellow;">X Matrix</mark>
 

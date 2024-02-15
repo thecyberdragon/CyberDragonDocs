@@ -50,4 +50,4 @@ Whiskers can be:
 * The minimum and maximum values
 * 1.5 \* the IQR in each direction (usually to the nearest point in the direction towards the IQR)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/715f7e01-08de-418d-a7f5-9c0c12c35a27/image.png)
+![](https://images4.imagebam.com/12/ff/8c/MES1OPJ\_o.png)

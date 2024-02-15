@@ -56,7 +56,7 @@ soup.p
 soup.div.string
 ```
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/8c0d2f9f-46a6-47cf-8e6c-25ca809f246a/image.png)
+![](https://images4.imagebam.com/00/6e/5b/MES1OQO\_o.png)
 
 ```python
 # Get the heading 1

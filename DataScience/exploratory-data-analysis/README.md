@@ -49,9 +49,9 @@ Two categorical values can use a contingency table
 
 Multi variate analysis usually uses colours, shapes or sizes (visual cues)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/c748a927-0dcd-4413-93ac-563906ca5046/image.png)
+![](https://images4.imagebam.com/f4/98/ee/MES1Q6R\_o.png)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/52195ac7-2dc7-4978-ab69-8b60960c8924/image.png)
+![](https://images4.imagebam.com/4f/24/8e/MES1Q6Q\_o.png)
 
 ### <mark style="color:yellow;">Techniques</mark>
 

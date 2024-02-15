@@ -4,7 +4,7 @@
 
 Subtract the mean from each data point. The new centered mean = 0.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/09979bbf-fb98-441f-8568-81255be54d14/image.png)
+![](https://images4.imagebam.com/4d/24/fd/MES1OQ3\_o.png)
 
 u = the mean
 
@@ -17,7 +17,7 @@ Max is scaled to 1
 
 Everything else is between 0 and 1
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/ee2ea9be-e4fc-4d85-872b-19b57e4eea3f/image.png)
+![](https://images4.imagebam.com/18/35/e0/MES1OQ6\_o.png)
 
 ### <mark style="color:yellow;">Using sklearn to min max scale</mark>
 
@@ -41,7 +41,7 @@ Normalises skewed data to make it more usable.
 
 Larger numbers are closer together and lower numbers are given more room.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/7b59cc52-98cf-4cad-b3d1-8decd7071566/image.png)
+![](https://images4.imagebam.com/d8/5d/f3/MES1OQ4\_o.png)
 
 ```python
 log_data = np.log( np.array )

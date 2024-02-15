@@ -38,7 +38,7 @@ np.percentile( value, percentile_num )
 np.percentile( value, [percentile_1, percentile_2] )
 ```
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/71d00a0f-8224-402b-b12f-1e2f3f74649f/image.png)
+![](https://images4.imagebam.com/69/25/fe/MES1OPM\_o.png)
 
 ### <mark style="color:yellow;">Correlation</mark>
 
@@ -83,7 +83,7 @@ Variance = X - (distance from mean)
 All variance = SUM( ( X - ( distance from mean ) **2 ) ) / ( number of points )
 ```
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/9fc8de3c-958f-44af-b1ed-04ceba9081ce/image.png)
+![](https://images4.imagebam.com/05/a0/b2/MES1OPV\_o.png)
 
 Variance = sigma squared
 
@@ -100,7 +100,7 @@ Standard deviation is written as sigma.
 standard_deviation = variance ** 0.5
 ```
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/0c51937e-76c1-4a66-9eb2-50832c20bf37/image.png)
+![](https://images4.imagebam.com/52/9d/d5/MES1OPS\_o.png)
 
 ```
 standard_deviation = np.std( array_of_values )
@@ -111,7 +111,7 @@ standard_deviation = np.std( array_of_values )
 99.7% should be within 3 standard deviations of the mean\
 Over 3 means a very out of place bit of data
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/9f8ddd30-3623-4be9-8122-d03db5bc5235/image.png)
+![](https://images4.imagebam.com/f5/7e/52/MES1OPU\_o.png)
 
 For an individual value
 
@@ -146,7 +146,7 @@ random = np.random.choice( [ "heads","tails" ], size = number, p = [ 0.5, 0.5 ] 
 
 The probability of an exact random discrete value in a range happening
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/9eb9bea6-7c13-490d-a590-c8523f68793c/image.png)
+![](https://images4.imagebam.com/68/0f/40/MES1OPP\_o.png)
 
 Binomial Distribution using Probability Mass Functions ( PMF )
 
@@ -179,13 +179,13 @@ Nominal ( mean, std\_distribution )
 
 Cumulative distribution function can be used on a continuous distribution to find the probability of an exact value occurring.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/b2266710-32b0-49ce-a95b-386d96e4be50/image.png)
+![](https://images4.imagebam.com/bd/d2/8d/MES1OPO\_o.png)
 
 ### <mark style="color:yellow;">Cumulative distribution function (discrete and continuous)</mark>
 
 The same as the PMF above, but it's accumulative, with the idea that everything increases cumulatively. The calculation will be the probability of all values up to x occurring.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/908bd6c3-2f51-43fc-a9e2-4b42e955e99b/image.png)
+![](https://images4.imagebam.com/0d/ab/b3/MES1OPK\_o.png)
 
 Example: To get the probability of 3-6 observations, you can use
 
@@ -246,27 +246,27 @@ Calculating exact values of discrete values from a random distribution using an 
 
 Lambda is the most occurring average in a distribution
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/bec9fe80-019a-46b8-aedd-03bd062f5f0f/image.png)
+![](https://images4.imagebam.com/c3/ed/35/MES1OPQ\_o.png)
 
 With higher lambda in the poisson distribution, the distribution is wider and more flat over a larger area.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/24965d57-f213-4dae-930b-795a53313628/image.png)
+![](https://images4.imagebam.com/b3/1b/15/MES1OPR\_o.png)
 
 Variance = number\_of\_events x probability x ( 1 - probability )
 
 Adding a number to a variable doesn't change the distribution as there is no range for a single number. Example: Adding points to test scores to grade on a curve.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/547e1f72-40dd-4b64-b7b8-7d379686e806/image.png)
+![](https://images4.imagebam.com/df/c8/f5/MES1OPX\_o.png)
 
 Scaling a random variable by a constant (a) scales the variance by a squared
 
 Example: Multiplying the random distribution by 2 squares the variance
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/e1c654d7-1827-4207-8dfb-6d856f512e6e/image.png)
+![](https://images4.imagebam.com/1c/3d/fe/MES1OPY\_o.png)
 
 The variance of two random variables are the sum of both variances.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/929a2d0b-966f-4d2d-a34e-488c42ab18a0/image.png)
+![](https://images4.imagebam.com/85/91/0f/MES1OPW\_o.png)
 
 This only works if x and y are random variables.
 
@@ -337,7 +337,7 @@ If the original distribution is normally distributed then small sample sizes wil
 
 The standard deviation of a sampling distribution is also standard error or the estimate of the mean.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/4f7c9c64-67a2-4e85-833a-31ef31e8f209/image.png)
+![](https://images4.imagebam.com/45/bb/20/MES1OPT\_o.png)
 
 As sample size increases the standard error will decrease.\
 As the standard deviation increases so will the standard error.
@@ -379,7 +379,7 @@ Contingency tables can be used to show frequency and proportion.\
 You can find the expected results if there was a correlation with chi2\_contingency.\
 You can compare the expected table with with the actual table.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/2a9eaace-e3f5-4b90-bc0d-063c3f361d51/image.png)
+![](https://images4.imagebam.com/79/f9/8e/MES1OPL\_o.png)
 
 Marginal proportions represent the distribution in a contingency table.
 
@@ -469,7 +469,7 @@ The probability of observing an average over or equal to the population average 
 
 (One-tailed test)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/24ffc985-3d2a-4d92-baea-9409cde57ac9/image.png)
+![](https://images4.imagebam.com/8c/51/14/MES1OPZ\_o.png)
 
 _Average = 30, sample average = 1.24 points higher._\
 If the sample mean is truly equal to (greater or less than) the population mean.\
@@ -477,12 +477,12 @@ The probability of observing an average over or below the population average.
 
 (Two-tailed test)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/12fe18d0-6882-4831-9819-5de7ac0064dd/image.png)
+![](https://images4.imagebam.com/89/0d/47/MES1OQ0\_o.png)
 
 If the sample mean is truly less than the population mean.\
 The probability of observing an average below the population average.
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/5af90dab-486b-424f-ae2f-df2f4ee7fe9f/image.png)
+![](https://images4.imagebam.com/78/1e/bb/MES1OPN\_o.png)
 
 Example p-values:
 
