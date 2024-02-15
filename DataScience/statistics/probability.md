@@ -28,17 +28,17 @@ Union - A or B
 
 Intersection - A and B
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/ebb72021-a798-4d84-bd41-629aa29e987f/image.png)
+![](https://images4.imagebam.com/aa/c2/66/MERZS7T\_o.png)
 
 Complement - Ac - Not A
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/3108f409-76b6-4bee-9964-db13364878a5/image.png)
+![](https://images4.imagebam.com/7b/ed/6b/MERZS7M\_o.png)
 
 A set and it's complement cover the entire sample space
 
 Mutually exclusive
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/14c77dea-0f06-4a7a-bb8b-026beb8574f2/image.png)
+![](https://images4.imagebam.com/da/63/13/MERZS7R\_o.png)
 
 Events can't happen at the same time
 
@@ -71,7 +71,7 @@ P ( A and B ) = P( A ) \* P ( B | A )
 
 Can be visualised with a tree diagram
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/171b5add-a3e4-492e-8fa5-6042c1bbb324/image.png)
+![](https://images4.imagebam.com/17/c4/7f/MERZS7Q\_o.png)
 
 Each branch is a specific set of events\
 All branch possibilities sum to 1\
@@ -81,7 +81,7 @@ Multiply across branches to calculate probability
 
 P( B | A ) = ( P ( A / B ) \* P ( B ) ) / ( P ( A ) )
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/15dde02a-2731-46ec-b73e-23c230bd7d64/image.png)
+![](https://images4.imagebam.com/9e/6d/08/MERZS7N\_o.png)
 
 This is the probability of event 1 happening after event 2.
 
@@ -92,8 +92,8 @@ Possibility of having strep throat if you test positive
 Event 1 - probability someone has it\
 Event 2 - Probability of testing positive
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/f9619caf-90c4-4876-be0d-6f85038deb13/image.png)
+![](https://images4.imagebam.com/c1/c7/e3/MERZS7S\_o.png)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/39749088-3a5b-419d-8fdf-dc8ca115f59e/image.png)
+![](https://images4.imagebam.com/e3/2e/41/MERZS7P\_o.png)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/18376e61-0f11-43bc-806d-faae85e57e2f/image.png)
+![](https://images4.imagebam.com/06/47/12/MERZS7O\_o.png)
