@@ -6,13 +6,13 @@
 
 Show distributions
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/bae8ed3b-b65e-441b-b20d-c10844ba8c55/image.png)
+![](https://images4.imagebam.com/dc/11/e7/MES1OSM\_o.png)
 
 ## <mark style="color:red;">Python Code</mark>
 
 ***
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/c79f4313-8c2b-4b05-870c-7a15eea77b45/Untitled.png)
+![](https://images4.imagebam.com/68/0f/a7/MES1OSN\_o.png)
 
 ### <mark style="color:yellow;">Seaborn Histogram</mark>
 
@@ -28,7 +28,7 @@ plt.show( )
 plt.clf( )
 ```
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/7ab00ba9-e4f8-493a-a7d2-513d80f95958/Untitled.png)
+![](https://images4.imagebam.com/36/4e/3f/MES1OSO\_o.png)
 
 ### <mark style="color:yellow;">Matplot Lib Histogram</mark>
 

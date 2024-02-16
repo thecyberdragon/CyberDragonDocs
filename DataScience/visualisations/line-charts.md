@@ -6,13 +6,13 @@
 
 Track changes over time
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/d68ded66-0d64-4ed6-862e-be7ed0a2e614/image.png)
+![](https://images4.imagebam.com/03/81/d8/MES1OSQ\_o.png)
 
 _A point on a time series it call cross-sectional data._
 
 ### <mark style="color:yellow;">Matplotlib Line Chart</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/8dabd87d-56fa-47a3-a140-7a67ae9c11bc/image.png)
+![](https://images4.imagebam.com/b0/06/e4/MES1OSR\_o.png)
 
 ```python
 # Create plot
@@ -43,7 +43,7 @@ _marker = "o" / "s" / "\*" (circle, square, star) <- The points on the line char
 
 ### <mark style="color:yellow;">Manually set fill region</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/0c307737-564e-4ef2-b1f9-86a44e08ee00/image.png)
+![](https://images4.imagebam.com/15/1b/b3/MES1OSS\_o.png)
 
 ```python
 # Specify fill region

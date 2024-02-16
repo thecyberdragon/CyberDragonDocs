@@ -4,7 +4,7 @@
 
 ***
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/c7e35c2f-968b-4a8a-8fba-1d678cb03146/image.png)
+![](https://images4.imagebam.com/fa/42/2e/MES1OSI\_o.png)
 
 ## <mark style="color:red;">Python Code</mark>
 
@@ -12,7 +12,7 @@
 
 ### <mark style="color:yellow;">Seaborn</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/6b1f62be-b969-4ed6-a564-43704a644050/Untitled-1.png)
+![](https://images4.imagebam.com/9d/6e/d4/MES1OSK\_o.png)
 
 ```python
 import seaborn as sns
@@ -28,7 +28,7 @@ plt.clf( )
 
 #### Multiple Boxes
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/c8961a76-e837-4830-919d-82160c797a66/Untitled.png)
+![](https://images4.imagebam.com/f0/31/78/MES1OSL\_o.png)
 
 ```python
 import seaborn as sns

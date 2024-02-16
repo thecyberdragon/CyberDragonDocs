@@ -1,6 +1,6 @@
 # 📊 Pie Chart
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/d503c1a6-6e13-40cb-8e42-e5a03e626cbe/image.png)
+![](https://images4.imagebam.com/fc/01/5f/MES1OSV\_o.png)
 
 ### <mark style="color:yellow;">Using Value Counts</mark>
 
@@ -47,4 +47,4 @@ plt.pie( startangle = number )
 
 _<mark style="color:green;">x = explode number</mark>_
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/e1b6efed-753f-4164-8f52-cd0d8d33403e/image.png)
+![](https://images4.imagebam.com/0c/af/2b/MES1OSX\_o.png)

@@ -6,13 +6,13 @@
 
 Show different variables or values
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/19530af9-c0db-4a69-a980-1b3a86d9e632/image.png)
+![](https://images4.imagebam.com/ae/dd/37/MES1OTJ\_o.png)
 
 ## <mark style="color:red;">Python Code</mark>
 
 ***
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/35b17646-1981-479a-901a-fcfd2b8d32a0/Untitled.png)
+![](https://images4.imagebam.com/e0/21/aa/MES1OTK\_o.png)
 
 ### <mark style="color:yellow;">Seaborn Bar Chart</mark>
 
@@ -30,7 +30,7 @@ plt.clf( )
 
 ### <mark style="color:yellow;">Cat Plot</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/a6abc882-bdd8-49eb-9b82-5a318ebae099/image.png)
+![](https://images4.imagebam.com/cf/4d/a9/MES1OTL\_o.png)
 
 ```python
 # no plt required
@@ -42,7 +42,7 @@ sns.catplot( x = "x_col", col = "col_per_chart", data = df, kind = "count", heig
 
 ### <mark style="color:yellow;">Count Plots</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/8cb4402d-9ab9-4b2b-ac26-1ab6f551f7cc/Untitled-1.png)
+![](https://images4.imagebam.com/4b/5c/d7/MES1OTN\_o.png)
 
 ```python
 # Method 1: From column in dataframe
@@ -99,7 +99,7 @@ _To get side by side bars using pyplot_
 
 ### <mark style="color:yellow;">Stacking Bars</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/25080dc8-cfbc-49a2-b904-6deb9e8e1127/image.png)
+![](https://images4.imagebam.com/ca/3d/89/MES1OTO\_o.png)
 
 ```python
 import matplotlib.pyplot as plt
@@ -118,7 +118,7 @@ plt.clf( )
 
 ### <mark style="color:yellow;">Error Bars</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/3ceeb382-2533-4bc5-aba4-77893625db4a/image.png)
+![](https://images4.imagebam.com/44/75/aa/MES1OSH\_o.png)
 
 ```python
 import matplotlib.pyplot as plt

@@ -6,13 +6,13 @@
 
 Data by x and y axis (numeric values)
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/70897440-4321-4049-bcde-4dee14765a1c/image.png)
+![](https://images4.imagebam.com/ae/ab/4f/MES1OSY\_o.png)
 
 ## <mark style="color:red;">Python Code</mark>
 
 ***
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/f3121835-ef99-40fc-8527-a5d53079dac2/image.png)
+![](https://images4.imagebam.com/23/19/f6/MES1OSZ\_o.png)
 
 ### <mark style="color:yellow;">Seaborn scatter plot</mark>
 
@@ -30,7 +30,7 @@ Lowess = locally weighted scatterplot smoothing
 
 #### Scatter with the jitters
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/0abe15e9-3b99-4c3b-bc5e-bef4158671f5/image.png)
+![](https://images4.imagebam.com/8c/3b/bf/MES1OT1\_o.png)
 
 ```python
 sns.lmplot( x = "col_1", y = "col_2", data = df, x_jitter = 0.15, y_jitter = 0.15, fit_reg = False )
@@ -38,7 +38,7 @@ sns.lmplot( x = "col_1", y = "col_2", data = df, x_jitter = 0.15, y_jitter = 0.1
 
 ### <mark style="color:yellow;">Matplotlib Scatter Graph</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/ec1faff2-169c-4315-ae71-21960542883e/Untitled.png)
+![](https://images4.imagebam.com/ce/37/a5/MES1OT2\_o.png)
 
 ```python
 # Standard basic syntax

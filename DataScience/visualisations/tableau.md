@@ -1,6 +1,6 @@
 # 🌐 Tableau
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/043b2b91-892a-4bf9-a696-92e7d46368b9/image.png)
+![](https://images4.imagebam.com/62/ac/bb/MES1OT5\_o.png)
 
 ### <mark style="color:yellow;">Changing data source headers</mark>
 
@@ -11,7 +11,7 @@ Change the data type by clicking on the Abc or #
 
 Drag a new datasource into the main window from the sidebar and select how to join
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/f88b31c2-71a8-4520-962a-9e64a0b0d0f6/image.png)
+![](https://images4.imagebam.com/fe/58/da/MES1OT6\_o.png)
 
 ### <mark style="color:yellow;">Two types of data</mark>
 
@@ -20,7 +20,7 @@ Drag a new datasource into the main window from the sidebar and select how to jo
 
 You have to right click to convert between dimension and measure
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/f2d55f53-6cc7-4bec-a002-ee0bfb17191c/image.png)
+![](https://images4.imagebam.com/04/a9/4c/MES1OT7\_o.png)
 
 ### <mark style="color:yellow;">Aggregate types</mark>
 

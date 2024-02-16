@@ -39,7 +39,7 @@ plt.clf ( )
 
 ### <mark style="color:yellow;">Subplots</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/8a6e2765-694e-4461-8224-c006b50d733a/image.png)
+![](https://images4.imagebam.com/33/0a/b8/MES1OST\_o.png)
 
 ```python
 plt.subplot( row_numbers, col_numbers, plot_number )
@@ -145,7 +145,7 @@ plt.figure(1)
 
 ### <mark style="color:yellow;">Colours</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/ff8bf454-86bd-42cc-a109-d948218fbb5b/image.png)
+![](https://images4.imagebam.com/53/b2/01/MES1OSU\_o.png)
 
 ### <mark style="color:yellow;">Documentation</mark>
 

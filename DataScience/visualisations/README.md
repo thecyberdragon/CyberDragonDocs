@@ -20,7 +20,7 @@ Picking a chart to use\
 What is the question being asked?\
 What type of data is being worked with?
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/a2d12554-65b0-45ab-933c-5caba64758bb/image.png)
+![](https://images4.imagebam.com/b5/f0/4d/MES1OT8\_o.png)
 
 ## <mark style="color:red;">**Concepts**</mark>
 
@@ -59,11 +59,11 @@ Providing context or a summary helps prevent misunderstanding or false conclusio
 
 ### <mark style="color:yellow;">**Map (geography) - Univariate**</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/7be7a48f-78a1-45ae-931b-6b44f6e90e0b/image.png)
+![](https://images4.imagebam.com/78/2c/e4/MES1OT9\_o.png)
 
 ### <mark style="color:yellow;">**Lag Plots**</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/f9ca13bc-2e86-4cee-83bc-3e28fb5167ca/image.png)
+![](https://images4.imagebam.com/01/25/dc/MES1OTB\_o.png)
 
 Shows whether the lag (previous point) in a dataset correlates with the current data. Randomness suggests there is no relationship. A lag is the smallest increment back one step. Lag 2 is 2 steps back etc.
 
@@ -77,7 +77,7 @@ _<mark style="color:green;">Lag pot code with pandas</mark>_
 
 ### <mark style="color:yellow;">**Autocorrelation Plot**</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/0be7b170-d6b4-4b5a-99e3-08f286a20272/image.png)
+![](https://images4.imagebam.com/5b/23/fe/MES1OTC\_o.png)
 
 Being close to 0 suggests a weak correlation. Being closer to 1 or -1 indicates a stronger correlation.\
 Positive correlations are + numbers while negative correlations as -\
@@ -93,7 +93,7 @@ _<mark style="color:green;">Shows if points in a time series are correlated or n
 
 ### <mark style="color:yellow;">**Heatmaps**</mark>
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/37653b8a-5ebc-41d9-aa53-4036916bad22/image.png)
+![](https://images4.imagebam.com/69/3b/84/MES1OTD\_o.png)
 
 Shows the difference in values as colour temperature
 
@@ -111,19 +111,19 @@ Stacked charts aren't great for showing proportions, either in char charts of li
 
 Same hue at different intensities
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/2f07a164-b2ee-47ba-8072-e0dbf0ba0736/image.png)
+![](https://images4.imagebam.com/68/72/78/MES1OTF\_o.png)
 
 ### <mark style="color:yellow;">**Divergent**</mark>
 
 Two opposing colours to show two sides of a scale
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/720ffc1a-93a8-4193-b257-b88073cca9a8/image.png)
+![](https://images4.imagebam.com/be/e6/49/MES1OTH\_o.png)
 
 ### <mark style="color:yellow;">**Categorical**</mark>
 
 A colour per category
 
-![](https://t20664121.p.clickup-attachments.com/t20664121/82cb4648-7d06-4f01-bdeb-ea281e50270a/image.png)
+![](https://images4.imagebam.com/26/2e/1f/MES1OTI\_o.png)
 
 We tend to see darker = more and lighter = less
 
