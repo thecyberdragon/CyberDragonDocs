@@ -1,40 +1,65 @@
 # ✏ SQL CheatSheet
 
-### **Query Structure**
+## <mark style="color:red;">**Query Structure**</mark>
 
 ***
 
+```sql
 EXPLAIN ANALYZE
+```
 
 Check planning and execution time of the query
 
-SELECT (columns or \*)
+```sql
+SELECT (columns or *)
+```
 
 What to select
 
+```sql
 OVER (PARTITION BY column ORDER BY)
+```
 
 Sub-group data for query calculation instead of group by
 
-FROM table\_name FROM (subquery) AS alias
+```sql
+FROM table_name 
+FROM (subquery) AS alias
+```
 
 From which table or subquery
 
-WHERE condition1 IN/EXISTS/LIKE/=/(dataset/subquery)
+```sql
+WHERE condition1 IN/EXISTS/LIKE/=/(dataset/subquery/value)
+```
 
 Condition for query
 
+```sql
 GROUP BY 1,2,3
+```
 
 Group results by column(s)
 
+```sql
+HAVING AGGREGATION(col) = < > != value
+```
+
+Filter by a grouped value
+
+```sql
 ORDER BY 1,2,3 ASC/DESC
+```
 
 Order results by column(s), ascending by default
 
+```sql
 LIMIT number
+```
 
 Limit number of rows returned
+
+###
 
 ### **Table data manipulation**
 
