@@ -108,18 +108,52 @@ ADD COLUMN sex VARCHAR(6) AFTER dob
 
 ### <mark style="color:yellow;">Create Stored Procedure</mark>
 
-```
-x
+```sql
+DELIMITER //
+
+CREATE STORED PROCEDURE full_name_fill
+BEGIN
+
+UPDATE name_table
+SET full_name = CONCAT(first, '-', last);
+
+INSERT INTO event_log_table
+(stamp, event_name, description)
+VALUES
+(CURRENT_TIMESTAMP(), 'stored procedure', 'full_name_fill has run');
+
+END //
+
+DELIMITER ;
 ```
 
 ### <mark style="color:yellow;">Create Trigger</mark>
 
 ```sql
-x
+DELIMITER //
+
+CREATE TRIGGER event_log_insert
+BEFORE DELETE
+ON main_table
+FOR EACH ROW 
+
+DO
+
+INSERT INTO event_log (stamp, event_name, description)
+VALUES (CURRENT_TIMESTAMP(), 'row deleted', main_table.id);
+
+END //
+
+DELIMITER ;
+
+
 ```
 
 ### <mark style="color:yellow;">Create Event</mark>
 
-```
-x
+```sql
+CREATE EVENT run_full_name_fill
+ON SCHEDULE EVERY 1 DAY
+STARTS '2024-01-01 04:00:00'
+DO CALL full_name_fill();
 ```
