@@ -34,7 +34,7 @@
 * [🐬 SQL](sql/README.md)
   * [🐬 SQL Statement Syntax](sql/sql-statement-syntax.md)
   * [🐬 SQL Statement Breakdown](sql/sql-statement-breakdown.md)
-  * [✏ SQL Engineering](sql/sql-engineering.md)
+  * [🐬 SQL Engineering](sql/sql-engineering.md)
   * [🐬 SQL Functions](sql/sql-functions.md)
 * [❔ Regex](regex.md)
 * [🧑🔬 Projects](projects.md)

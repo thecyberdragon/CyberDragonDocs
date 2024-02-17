@@ -1,8 +1,4 @@
-# ✏ SQL Engineering
-
-* [ ] Triggers
-* [ ] Stored Procedures
-* [ ] Events
+# 🐬 SQL Engineering
 
 ## <mark style="color:red;">**Indexes & Clusters**</mark>
 
