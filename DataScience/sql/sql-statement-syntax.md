@@ -33,6 +33,14 @@ WHERE name LIKE 'tony%'
 
 _% signs are wild cards indicating anything of any length. All like statements are processed in lower case._
 
+### <mark style="color:yellow;">Where IN</mark>
+
+```sql
+SELECT *
+FROM table
+WHERE name IN (SELECT name FROM important_people)
+```
+
 ### <mark style="color:yellow;">Basic Grouping</mark>
 
 ```sql
@@ -76,6 +84,20 @@ INNER JOIN table_two ON table_two.id = table_one.id
 
 #Joins: INNER, OUTER, LEFT, RIGHT, CROSS
 ```
+
+_LEFT JOIN a table to itself to join rows where the id is the same and date = date +1 (tomorrows date) to see if there are reoccuring values by date. Mostly to use to calculate funnels & retention_
+
+### <mark style="color:yellow;">Join Using</mark>
+
+```sql
+SELECT
+  table_one.name,
+  table_two.price
+FROM table_one
+INNER JOIN table_two USING (id)
+```
+
+_USING is for when both tables share identical join column names_
 
 ### <mark style="color:yellow;">Inserting</mark>
 
@@ -307,6 +329,14 @@ SELECT *
 FROM Table
 WHERE (name LIKE '% richardson' OR name LIKE '% richardsons')
 NOT name = 'dave %'
+```
+
+### <mark style="color:yellow;">Between</mark>
+
+```sql
+SELECT name
+FROM table
+WHERE age BETWEEN 10 AND 20
 ```
 
 ## <mark style="color:red;">SQL Aggregation Function List</mark>

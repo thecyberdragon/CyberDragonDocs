@@ -1,5 +1,9 @@
 # ✏ SQL Engineering
 
+* [ ] Triggers
+* [ ] Stored Procedures
+* [ ] Events
+
 ## <mark style="color:red;">**Indexes & Clusters**</mark>
 
 ***
@@ -98,3 +102,24 @@ ALTER TABLE table_name
 ADD COLUMN sex VARCHAR(6) AFTER dob
 ```
 
+## <mark style="color:red;">Engineering</mark>
+
+***
+
+### <mark style="color:yellow;">Create Stored Procedure</mark>
+
+```
+x
+```
+
+### <mark style="color:yellow;">Create Trigger</mark>
+
+```sql
+x
+```
+
+### <mark style="color:yellow;">Create Event</mark>
+
+```
+x
+```
