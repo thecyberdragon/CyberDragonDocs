@@ -77,6 +77,50 @@ INNER JOIN table_two ON table_two.id = table_one.id
 #Joins: INNER, OUTER, LEFT, RIGHT, CROSS
 ```
 
+### <mark style="color:yellow;">Inserting</mark>
+
+```sql
+INSERT INTO table
+(col1, col2, col3) VALUES ('value_1','value_2','value_3')
+```
+
+### <mark style="color:yellow;">Insert Selection</mark>
+
+```sql
+INSERT INTO 
+table_two (col_1, col_2)
+SELECT col_1, col_2
+FROM table_one
+WHERE col_3 > 0
+```
+
+### <mark style="color:yellow;">Updating</mark>
+
+```sql
+UPDATE table
+SET col1 = 'name_change', col2 = 'value_change'
+WHERE id = 15
+```
+
+### <mark style="color:yellow;">Delete</mark>
+
+```sql
+DELETE FROM table
+WHERE id = 15
+```
+
+_If the delete or update method doesn't specify an index, SQL safe updates needs to be turned off in MySQL version 8 and above._&#x20;
+
+_Always test a delete statement by first building a select statement and modifying after testing the results returned._
+
+```sql
+SET SAFE_SQL_UPDATES = 0
+```
+
+## <mark style="color:red;">Non-Basic Syntax</mark>
+
+***
+
 ### <mark style="color:yellow;">Subqueries</mark>
 
 ```sql
@@ -99,7 +143,7 @@ FROM
     employees AS 'employee_table'
 ```
 
-#### <mark style="color:yellow;">CTE Common Table Expression</mark>
+### <mark style="color:yellow;">CTE Common Table Expression</mark>
 
 ```sql
 WITH aggregation AS 
@@ -119,6 +163,23 @@ SELECT
 FROM aggregation
 WHERE points > 300
   
+```
+
+### <mark style="color:yellow;">Case Statements</mark>
+
+```sql
+SELECT
+    name,
+    age,
+    CASE 
+    WHEN age < 18 THEN 'child'
+    WHEN age >= 18 AND age < 25 THEN 'young'
+    WHEN age >= 25 AND age < 40 THEN 'in_prime'
+    WHEN age >= 40 AND age < 60 THEN 'aging'
+    ELSE 'shouold_retire'
+    END AS 'age_ranking'
+FROM table
+    
 ```
 
 ## <mark style="color:red;">Table Union</mark>
@@ -262,50 +323,6 @@ NOT name = 'dave %'
 | [`VAR_POP()`](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function\_var-pop)               | Return the population standard variance          |
 | [`VAR_SAMP()`](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function\_var-samp)             | Return the sample variance                       |
 | [`VARIANCE()`](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function\_variance)             | Return the population standard variance          |
-
-## <mark style="color:red;">Insert Update and Delete</mark>
-
-***
-
-### <mark style="color:yellow;">Inserting</mark>
-
-```sql
-INSERT INTO table
-(col1, col2, col3) VALUES ('value_1','value_2','value_3')
-```
-
-### <mark style="color:yellow;">Insert Selection</mark>
-
-```sql
-INSERT INTO 
-table_two (col_1, col_2)
-SELECT col_1, col_2
-FROM table_one
-WHERE col_3 > 0
-```
-
-### <mark style="color:yellow;">Updating</mark>
-
-```sql
-UPDATE table
-SET col1 = 'name_change', col2 = 'value_change'
-WHERE id = 15
-```
-
-### <mark style="color:yellow;">Delete</mark>
-
-```sql
-DELETE FROM table
-WHERE id = 15
-```
-
-_If the delete or update method doesn't specify an index, SQL safe updates needs to be turned off in MySQL version 8 and above._&#x20;
-
-_Always test a delete statement by first building a select statement and modifying after testing the results returned._
-
-```sql
-SET SAFE_SQL_UPDATES = 0
-```
 
 ## <mark style="color:red;">Documentation</mark>
 
