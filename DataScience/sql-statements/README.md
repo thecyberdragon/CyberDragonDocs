@@ -1,4 +1,4 @@
-# ✏ SQL
+# 🐬 SQL Statements
 
 ## <mark style="color:red;">Basic Syntax and features</mark>
 
@@ -9,7 +9,8 @@
 ```sql
 SELECT *
 FROM table
-WHERE value = 'something';
+WHERE value = 'something'
+LIMIT 10
 ```
 
 ### <mark style="color:yellow;">Selecting columns</mark>
@@ -183,6 +184,15 @@ SELECT
 FROM people
 ```
 
+### <mark style="color:yellow;">OR and NOT</mark>
+
+```sql
+SELECT *
+FROM Table
+WHERE (name LIKE '% richardson' OR name LIKE '% richardsons')
+NOT name = 'dave %'
+```
+
 ## <mark style="color:red;">SQL Aggregation Function List</mark>
 
 ***
@@ -218,6 +228,16 @@ FROM people
 ```sql
 INSERT INTO table
 (col1, col2, col3) VALUES ('value_1','value_2','value_3')
+```
+
+### <mark style="color:yellow;">Insert Selection</mark>
+
+```sql
+INSERT INTO 
+table_two (col_1, col_2)
+SELECT col_1, col_2
+FROM table_one
+WHERE col_3 > 0
 ```
 
 ### <mark style="color:yellow;">Updating</mark>
