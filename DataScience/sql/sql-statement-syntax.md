@@ -182,6 +182,17 @@ FROM table
     
 ```
 
+### <mark style="color:yellow;">Case As Logic</mark>
+
+```sql
+SELECT
+    name,
+    SUM(value)
+FROM table
+ORDER BY 
+(SELECT CASE WHEN age < 25 THEN '01' ELSE '02')
+```
+
 ## <mark style="color:red;">Table Union</mark>
 
 ***

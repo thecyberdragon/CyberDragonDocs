@@ -35,6 +35,6 @@
   * [🐬 SQL Statement Syntax](sql/sql-statement-syntax.md)
   * [🐬 SQL Statement Breakdown](sql/sql-statement-breakdown.md)
   * [✏ SQL Engineering](sql/sql-engineering.md)
-  * [To Add](sql/to-add.md)
+  * [SQL Data Types](sql/sql-data-types.md)
 * [❔ Regex](regex.md)
 * [🧑🔬 Projects](projects.md)

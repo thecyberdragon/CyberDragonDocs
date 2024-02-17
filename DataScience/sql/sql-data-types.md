@@ -1,8 +1,4 @@
-# To Add
-
-CASE
-
-SUM & COUNT(CASE conditions END) AS alias
+# SQL Data Types
 
 DATE
 
@@ -17,10 +13,6 @@ CAST
 CREATE TABLE
 
 ALTER TABLE
-
-LAG
-
-LEAD
 
 INSTR
 
