@@ -1,4 +1,4 @@
-# 🐬 SQL Statements
+# 🐬 SQL Statement Syntax
 
 ## <mark style="color:red;">Basic Syntax and features</mark>
 
@@ -120,6 +120,50 @@ FROM aggregation
 WHERE points > 300
   
 ```
+
+## <mark style="color:red;">Table Union</mark>
+
+***
+
+### <mark style="color:yellow;">Basic Union</mark>
+
+```sql
+SELECT * FROM table_1
+UNION
+SELECT * FROM table_2
+```
+
+Combine datasets by unique values
+
+### <mark style="color:yellow;">Full Union</mark>
+
+```sql
+SELECT * FROM table_1
+UNION ALL
+SELECT * FROM table_2
+```
+
+Combine datasets by all values whether unique or not
+
+### <mark style="color:yellow;">Intersect Union</mark>
+
+```sql
+SELECT * FROM table_1
+INTERSECT
+SELECT * FROM table_2
+```
+
+Return rows from the top dataset where they exist in the second
+
+### <mark style="color:yellow;">Except</mark>
+
+```sql
+SELECT * FROM table_1
+EXCEPT
+SELECT * FROM table_2
+```
+
+Return rows on the top dataset if they don't appear in the second
 
 ## <mark style="color:red;">Window Functions</mark>
 
