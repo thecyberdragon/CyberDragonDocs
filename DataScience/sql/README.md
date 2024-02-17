@@ -1,18 +1,10 @@
 # ✏ SQL
 
-### Todo
-
-* [ ] date time functions
-* [x] joining
-* [x] subquery
-* [x] with statements
-* [x] if else and cases
-
-### Basic Syntax and features
+## <mark style="color:red;">Basic Syntax and features</mark>
 
 ***
 
-#### Searching
+### <mark style="color:yellow;">Selecting all data</mark>
 
 ```sql
 SELECT *
@@ -20,42 +12,59 @@ FROM table
 WHERE value = 'something';
 ```
 
-#### Selecting columns
+### <mark style="color:yellow;">Selecting columns</mark>
 
 ```sql
 SELECT
   col1,
   col2,
-  col3 / col4 as new_col
+  col3 / col4 as 'new_col'
 FROM table;
-
-
 ```
 
-### Grouping
+### <mark style="color:yellow;">Like Selection</mark>
 
-***
+```sql
+SELECT *
+FROM table
+WHERE name LIKE 'tony%'
+```
 
-#### Basic Grouping and ordering
+_% signs are wild cards indicating anything of any length. All like statements are processed in lower case._
+
+### <mark style="color:yellow;">Basic Grouping</mark>
+
+```sql
+SELECT
+  SUM(col2) AS 'all_values'
+FROM table
+```
+
+### <mark style="color:yellow;">Grouping and ordering</mark>
 
 ```sql
 SELECT
   name,
-  SUM(col2)
+  MAX(col)
 FROM table
 GROUP BY 1
 ORDER BY 2 DESC;
 ```
 
-#### Aggregation
+### <mark style="color:yellow;">Having</mark>
 
 ```sql
 SELECT
-  MAX(col)
-FROM table
+    name,
+    SUM(points) AS 'total_points'
+FROM
+    leaderboard
+WHERE name IS NOT NULL
+GROUP BY name
+HAVING SUM(points) > 0
 ```
 
-#### Joining Tables
+### <mark style="color:yellow;">Joining Tables</mark>
 
 ```sql
 SELECT
@@ -67,7 +76,7 @@ INNER JOIN table_two ON table_two.id = table_one.id
 #Joins: INNER, OUTER, LEFT, RIGHT, CROSS
 ```
 
-#### Subqueries
+### <mark style="color:yellow;">Subqueries</mark>
 
 ```sql
 SELECT
@@ -78,7 +87,18 @@ FROM
   employees
 ```
 
-#### CTE Common Table Expression
+### <mark style="color:yellow;">Table Alias</mark>
+
+```sql
+SELECT
+    first_name,
+    last_name,
+    (SELECT partner FROM employees WHERE employees.id = employee_table.partner_id)
+FROM
+    employees AS 'employee_table'
+```
+
+#### <mark style="color:yellow;">CTE Common Table Expression</mark>
 
 ```sql
 WITH aggregation AS 
@@ -100,7 +120,47 @@ WHERE points > 300
   
 ```
 
-#### IF ELSE Logic
+## <mark style="color:red;">Window Functions</mark>
+
+***
+
+### <mark style="color:yellow;">Window Function Examples</mark>
+
+```sql
+SELECT
+  col1,
+  FIRST_VALUE OVER ( PARTITION BY col2 ORDER BY col3 ) as non_agg_window
+FROM table
+```
+
+```sql
+SELECT
+  col1,
+  ROW_NUMBER() OVER ( PARTITION BY id ) as row
+FROM table;
+```
+
+### <mark style="color:yellow;">Window Function List</mark>
+
+| **Name**                                                                                                             | **Description**                                                 |
+| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| [`CUME_DIST()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_cume-dist)       | Cumulative distribution value                                   |
+| [`DENSE_RANK()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_dense-rank)     | Rank of current row within its partition, without gaps          |
+| [`FIRST_VALUE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_first-value)   | Value of argument from first row of window frame                |
+| [`LAG()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_lag)                   | Value of argument from row lagging current row within partition |
+| [`LAST_VALUE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_last-value)     | Value of argument from last row of window frame                 |
+| [`LEAD()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_lead)                 | Value of argument from row leading current row within partition |
+| [`NTH_VALUE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_nth-value)       | Value of argument from N-th row of window frame                 |
+| [`NTILE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_ntile)               | Bucket number of current row within its partition.              |
+| [`PERCENT_RANK()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_percent-rank) | Percentage rank value                                           |
+| [`RANK()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_rank)                 | Rank of current row within its partition, with gaps             |
+| [`ROW_NUMBER()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_row-number)     | Number of current row within its partition                      |
+
+## <mark style="color:red;">Logic in SQL</mark>
+
+***
+
+### <mark style="color:yellow;">IF ELSE Logic</mark>
 
 ```sql
 SELECT
@@ -109,7 +169,7 @@ SELECT
 FROM people
 ```
 
-#### CASE statements
+### <mark style="color:yellow;">CASE statements</mark>
 
 ```sql
 SELECT
@@ -123,7 +183,9 @@ SELECT
 FROM people
 ```
 
-#### SQL Function List
+## <mark style="color:red;">SQL Aggregation Function List</mark>
+
+***
 
 | **Name**                                                                                                        | **Description**                                  |
 | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
@@ -147,43 +209,41 @@ FROM people
 | [`VAR_SAMP()`](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function\_var-samp)             | Return the sample variance                       |
 | [`VARIANCE()`](https://dev.mysql.com/doc/refman/8.0/en/aggregate-functions.html#function\_variance)             | Return the population standard variance          |
 
-### Window Functions
+## <mark style="color:red;">Insert Update and Delete</mark>
 
 ***
 
-#### Window Function Examples
+### <mark style="color:yellow;">Inserting</mark>
 
 ```sql
-SELECT
-  col1,
-  FIRST_VALUE OVER ( PARTITION BY col2 ORDER BY col3 ) as non_agg_window
-FROM table
+INSERT INTO table
+(col1, col2, col3) VALUES ('value_1','value_2','value_3')
 ```
+
+### <mark style="color:yellow;">Updating</mark>
 
 ```sql
-SELECT
-  col1,
-  ROW_NUMBER() OVER ( PARTITION BY id ) as row
-FROM table;
+UPDATE table
+SET col1 = 'name_change', col2 = 'value_change'
+WHERE id = 15
 ```
 
-#### Function List
+### <mark style="color:yellow;">Delete</mark>
 
-| **Name**                                                                                                             | **Description**                                                 |
-| -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| [`CUME_DIST()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_cume-dist)       | Cumulative distribution value                                   |
-| [`DENSE_RANK()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_dense-rank)     | Rank of current row within its partition, without gaps          |
-| [`FIRST_VALUE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_first-value)   | Value of argument from first row of window frame                |
-| [`LAG()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_lag)                   | Value of argument from row lagging current row within partition |
-| [`LAST_VALUE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_last-value)     | Value of argument from last row of window frame                 |
-| [`LEAD()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_lead)                 | Value of argument from row leading current row within partition |
-| [`NTH_VALUE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_nth-value)       | Value of argument from N-th row of window frame                 |
-| [`NTILE()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_ntile)               | Bucket number of current row within its partition.              |
-| [`PERCENT_RANK()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_percent-rank) | Percentage rank value                                           |
-| [`RANK()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_rank)                 | Rank of current row within its partition, with gaps             |
-| [`ROW_NUMBER()`](https://dev.mysql.com/doc/refman/8.0/en/window-function-descriptions.html#function\_row-number)     | Number of current row within its partition                      |
+```sql
+DELETE FROM table
+WHERE id = 15
+```
 
-### Documentation
+_If the delete or update method doesn't specify an index, SQL safe updates needs to be turned off in MySQL version 8 and above._&#x20;
+
+_Always test a delete statement by first building a select statement and modifying after testing the results returned._
+
+```sql
+SET SAFE_SQL_UPDATES = 0
+```
+
+## <mark style="color:red;">Documentation</mark>
 
 ***
 
