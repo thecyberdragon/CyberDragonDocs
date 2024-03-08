@@ -1,6 +1,8 @@
 # ✏️ Application of Coaching
 
-### <mark style="color:yellow;">**Stage 1 - Foundation Session**</mark>
+## <mark style="color:red;">**Stage 1 - Foundation Session**</mark>
+
+***
 
 #### <mark style="color:yellow;">Overview</mark>
 
@@ -75,7 +77,9 @@ My choices post-foundation session:\
 \-What would you love to become?\
 \-Who would you like to become?
 
-### <mark style="color:yellow;">**Stage 2: First coaching session**</mark>
+## <mark style="color:red;">**Stage 2: First coaching session**</mark>
+
+***
 
 #### <mark style="color:yellow;">GROW Overview</mark>
 
@@ -132,6 +136,125 @@ Top 10 powerful questions
 
 10 - What is your commitment on a scale of 1-10 to doing it? How can we make it higher?
 
+## <mark style="color:red;">GROW feedback framework</mark>
+
+***
+
+In order to make feedback a learning opportunity, the key questions to ask are: what happened? What did you learn? How will you use this in the future?
+
+Acknowledgement recognises the inner character of the person to whom it is addressed. More than what that person did.
+
+<mark style="color:yellow;">Set intention</mark> - goal questions and context for feedback\
+<mark style="color:yellow;">Recognise</mark> - Focus on what they did well and build strength\
+<mark style="color:yellow;">Improve</mark> - Non-judgement is the key to safe learning. Give them space to reflect\
+<mark style="color:yellow;">Learn</mark> - Check in on learning and set actions linked to development goals
+
+<mark style="color:yellow;">**Golden rule**</mark>: coachee shares first, coach adds their perspective second
+
+#### <mark style="color:yellow;">Chemistry meeting</mark>
+
+The chemistry meeting is where you meet the coachee for the first time and is usually free of charge. It is an opportunity for both you and your coachee to check that you feel you are a good match to work together. It is customary to let each other know after the chemistry meeting if, on reflection, you feel you are a good fit or not. If not, don’t worry - sometimes the chemistry is just not there.
+
+#### <mark style="color:yellow;">Coaching for an inner conflict</mark>
+
+When a coachee has an inner conflict of some sort, you can ask “What part of you wants to do that?” and then “what other characteristics does that part have? What does the other part want?” The purpose of these coaching questions is to help coachees to recognise and understand more about their drives and their inner conflicts as a prelude to resolving them.
+
+You should be able to ask them to list some names for their subpersonalities.\
+Which one of these do you find most disruptive? Under what circumstances does this one show up?\
+Give me an example of a recent time. What did it want at the time?\
+Did it get it? And if so, how do you think the other person felt?\
+What would be another way of getting what you want in those circumstances?
+
+#### <mark style="color:yellow;">How to reach alignment - Self-Mastery</mark>
+
+<mark style="color:yellow;">Step one</mark>: Recognise that you have subpersonalities at all, identifying your most active ones and when they take you over.
+
+<mark style="color:yellow;">Step two</mark>: Willingness to acknowledge to another person or people that conflicting subpersonalities exist, and to discover when they show up and take you over, what they want, how they limit you, and how they may serve you.
+
+<mark style="color:yellow;">Step three</mark>: Get them to cooperate with one another, and this is where inner alignment starts.
+
+<mark style="color:yellow;">Step four</mark>: The final stage is true synthesis or collaboration to the same end for the good of the whole. While this kind of developmental process can be undertaken at home through self-reflection, meditation, and visualisation, the processes themselves need prior experience or training.
+
+#### <mark style="color:yellow;">Structured daydreaming or visualisation</mark>
+
+Many advanced coaching methods seek to reach beneath the rational, logical, and limited mind into the subconscious, which is a whole system. Guided imagery can be used in structured daydreaming or visualisation to have coachees imagine themselves on a journey up a mountain, an archetypal symbol for growth; suggest to them that they meet certain things on the way, from gifts to obstacles, from an animal to a wise old teacher; and ask them to image what happens when this occurs.
+
+This is something you can do with your coachees. It’s recommended to say it unprepared and spontaneously when you are confident enough, as it will sound more authentic.
+
+When coachees have finished this visualisation and after a breather, coach them on the experience, focussing mainly on what the obstacles symbolised to them and what qualities they deployed to overcome it. What was the animal and what were their feelings about it? What was the conversation with the animal, and what did that symbolise?
+
+The whole journey up and down taking, say, 15 minutes. The debriefing will be as long as a piece of string.
+
+<mark style="color:yellow;">Coaching mindset</mark>
+
+The coach believes that the coachee is capable, resourceful, and full of potential. Believing in the dormant capability of a person will build their self-belief and self-motivation and enable them to flourish. And with that mindset, you can coach them to make their own powerful choices and find enjoyment in their performance and their success.
+
+<mark style="color:yellow;">Gremlin</mark>
+
+The personification of a belief that blocks us from moving forward. The coaching perspective is that the belief developed to keep us safe and that by becoming aware of it we can choose how it impacts our life. Rick Carson's book Taming your gremlin is excellent for clearing gremlins.
+
+<mark style="color:yellow;">Permission</mark>
+
+By asking if the coachee is happy to be coached in sensitive, intimate, or new areas, or before offering a hard truth or speaking to a gut feeling, the coach creates a safe environment, helps to build trust, and makes sure coaching remains a partnership.
+
+<mark style="color:yellow;">Coaching questions toolkit</mark>
+
+The golden rule is to be clear and brief. Sometimes the most powerful questions lead to a long silence, so don't feel the need to jump in with another question if there is a long pause.
+
+### <mark style="color:yellow;">Self-coaching</mark>
+
+What would you like to work on? What would you like to have after answering this set of questions?\
+What is your first goal related to this issue? When are you going to achieve it?\
+What are the benefits for you? Who else will benefit?\
+What actions have you taken so far? What is moving you close to your goal? What is moving you away from it?
+
+What options do you have? What else could you do? What are the pros and cons of the options?
+
+What will you act on? When are you going to start each one? Who can support you?
+
+How committed 1-10 are you on each step? What will you commit to doing?
+
+## <mark style="color:red;">Questions</mark>
+
+***
+
+### <mark style="color:yellow;">Asking Permission</mark>
+
+* Can I add to what you said?
+* Can I ask you…
+* Would it be helpful if I tell you what I’m hearing?
+* Can I make a suggestion?
+
+### <mark style="color:yellow;">Follow-up</mark>
+
+* Where are you with this project/goal?
+* What has happened so far since we last spoke?
+* How do you feel about where you are with this?
+* What have you achieved?
+
+### <mark style="color:yellow;">The coachee succeeded</mark>
+
+* What’s working well and why? What are you most pleased with?
+* What’s enabled you to get this far? What skills, qualities, or strengths of yours contributed to this?
+* What behaviours were most effective?
+* What did you learn?
+* What challenges did you overcome and how?
+* What’s next for you?
+
+### <mark style="color:yellow;">The coachee did not succeed</mark>
+
+* What happened? What did you learn from that?
+* What’s not going well and why? What challenges have you had? How have you dealt with these challenges?What do you want to do next time? How will you move on from this?
+* What gaps in skills, knowledge, or experience would you like to develop?
+* What behaviours would you change next time?
+* What’s the biggest block?What’s the most effective thing you could do to overcome this block?
+
+### <mark style="color:yellow;">The coachee did not do it</mark>
+
+* What happened? What kept you from doing it?
+* What does it mean to you? What did you learn about yourself?
+* What will you do?
+
 ### <mark style="color:yellow;">GROW Questions</mark>
 
 #### <mark style="color:yellow;">Goal</mark>
@@ -178,139 +301,6 @@ Top 10 powerful questions
 \-What other considerations do you have?
 
 
-
-### <mark style="color:green;">**To Sort & Rewrite**</mark>
-
-Acknowledgement recognises the inner character of the person to whom it is addressed. More than what that person did.
-
-GROW feedback framework
-
-In order to make feedback a learning op\[portunity, the key questions to ask are: what happened? What did you learn? How will you use this in the future?
-
-Set intention - goal questions and context for feedback\
-Recognise - Focus on what they did well and build strength\
-Improve - Non-judgement is the key to safe learning. Give them space to reflect\
-Learn - Check in on learning and set actions linked to development goals
-
-Golden rule: coachee shares first, coach adds their perspective second
-
-Chemistry meeting
-
-The chemistry meeting is where you meet the coachee for the first time and is usually free of charge. It is an opportunity for both you and your coachee to check that you feel you are a good match to work together. It is customary to let each other know after the chemistry meeting if, on reflection, you feel you are a good fit or not. If not, don’t worry - sometimes the chemistry is just not there.
-
-Coaching for an inner conflict
-
-When a coachee has an inner conflict of some sort, you can ask “What part of you wants to do that?” and then “what other characteristics does that part have? What does the other part want?” The purpose of these coaching questions is to help coachees to recognise and understand more about their drives and their inner conflicts as a prelude to resolving them.
-
-You should be able to ask them to list some names for their subpersonalities.\
-Which one of these do you find most disruptive? Under what circumstances does this one show up?\
-Give me an example of a recent time. What did it want at the time?\
-Did it get it? And if so, how do you think the other person felt?\
-What would be another way of getting what you want in those circumstances?
-
-How to reach alignment - Self-Mastery\
-Step one: Recognise that you have subpersonalities at all, identifying your most active ones and when they take you over.
-
-Step two: Willingness to acknowledge to another person or people that conflicting subpersonalities exist, and to discover when they show up and take you over, what they want, how they limit you, and how they may serve you.
-
-Step three: Get them to cooperate with one another, and this is where inner alignment starts.
-
-Step four: The final stage is true synthesis or collaboration to the same end for the good of the whole. While this kind of developmental process can be undertaken at home through self-reflection, meditation, and visualisation, the processes themselves need prior experience or training.
-
-Structured daydreaming or visualisation
-
-Many advanced coaching methods seek to reach beneath the rational, logical, and limited mind into the subconscious, which is a whole system. Guided imagery can be used in structured daydreaming or visualisation to have coachees imagine themselves on a journey up a mountain, an archetypal symbol for growth; suggest to them that they meet certain things on the way, from gifts to obstacles, from an animal to a wise old teacher; and ask them to image what happens when this occurs.
-
-This is something you can do with your coachees. It’s recommended to say it unprepared and spontaneously when you are confident enough, as it will sound more authentic.
-
-When coachees have finished this visualisation and after a breather, coach them on the experience, focussing mainly on what the obstacles symbolised to them and what qualities they deployed to overcome it. What was the animal and what were their feelings about it? What was the conversation with the animal, and what did that symbolise?
-
-The whole journey up and down taking, say, 15 minutes. The debriefing will be as long as a piece of string.
-
-Coaching mindset
-
-The coach believes that the coachee is capable, resourceful, and full of potential. Believing in the dormant capability of a person will build their self-belief and self-motivation and enable them to flourish. And with that mindset, you can coach them to make their own powerful choices and find enjoyment in their performance and their success.
-
-Gremlin
-
-The personification of a belief that blocks us from moving forward. The coaching perspective is that the belief developed to keep us safe and that by becoming aware of it we can choose how it impacts our life. Rick Carson's book Taming your gremlin is excellent for clearing gremlins.
-
-Permission
-
-By asking if the coachee is happy to be coached in sensitive, intimate, or new areas, or before offering a hard truth or speaking to a gut feeling, the coach creates a safe environment, helps to build trust, and makes sure coaching remains a partnership.
-
-Coaching questions toolkit
-
-The golden rule is to be clear and brief. Sometimes the most powerful questions lead to a long silence, so don't feel the need to jump in with another question if there is a long pause.
-
-Self-coaching
-
-What would you like to work on? What would you like to have after answering this set of questions?\
-What is your first goal related to this issue? When are you going to achieve it?\
-What are the benefits for you? Who else will benefit?\
-What actions have you taken so far? What is moving you close to your goal? What is moving you away from it?
-
-What options do you have? What else could you do? What are the pros and cons of the options?
-
-What will you act on? When are you going to start each one? Who can support you?
-
-How committed 1-10 are you on each step? What will you commit to doing?
-
-Asking permission
-
-Can I add to what you said?
-
-Can I ask you…
-
-Would it be helpful if I tell you what I’m hearing?
-
-Can I make a suggestion?
-
-Follow-up
-
-\-Where are you with this project/goal?
-
-\-What has happened so far since we last spoke?
-
-\-How do you feel about where you are with this?
-
-\-What have you achieved?
-
-The coachee succeeded
-
-\-What’s working well and why? What are you most pleased with?
-
-\-What’s enabled you to get this far? What skills, qualities, or strengths of yours contributed to this?
-
-\-What behaviours were most effective?
-
-\-What did you learn?
-
-\-What challenges did you overcome and how?
-
-\-What’s next for you?
-
-The coachee did not succeed
-
-\-What happened? What did you learn from that?
-
-\-What’s not going well and why? What challenges have you had? How have you dealt with these challenges?
-
-\-What do you want to do next time? How will you move on from this?
-
-\-What gaps in skills, knowledge, or experience would you like to develop?
-
-\-What behaviours would you change next time?
-
-\-What’s the biggest block?What’s the most effective thing you could do to overcome this block?
-
-The coachee did not do it
-
-\-What happened? What kept you from doing it?
-
-\-What does it mean to you? What did you learn about yourself?
-
-\-What will you do?
 
 GROW feedback framework
 
