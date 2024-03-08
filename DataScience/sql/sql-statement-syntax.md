@@ -109,12 +109,14 @@ INSERT INTO table
 ### <mark style="color:yellow;">Insert Selection</mark>
 
 ```sql
-INSERT INTO 
+INSERT IGNORE INTO 
 table_two (col_1, col_2)
 SELECT col_1, col_2
 FROM table_one
 WHERE col_3 > 0
 ```
+
+_<mark style="color:green;">IGNORE is optional and will ignore the insert command if that row already exists</mark>_
 
 ### <mark style="color:yellow;">Updating</mark>
 
