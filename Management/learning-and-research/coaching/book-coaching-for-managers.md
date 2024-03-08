@@ -4,25 +4,21 @@
 
 ***
 
-**1 - Getting the best from employees**
+### <mark style="color:yellow;">**1 - Getting the best from employees**</mark>
 
 A coach is someone who helps another person reach higher effectiveness by creating a dialogue that leads to awareness and action.
 
-The Success Equation
+#### <mark style="color:yellow;">The Success Equation</mark>
 
-Aptitude - The know-how, skills, capacity
-
-Attitude - Drive, confidence, focus, outlook
-
-Available Resources: Tools, equipment, time
+<mark style="color:yellow;">Aptitude</mark> - The know-how, skills, capacity\
+<mark style="color:yellow;">Attitude</mark> - Drive, confidence, focus, outlook\
+<mark style="color:yellow;">Available Resources</mark>: Tools, equipment, time
 
 Attitude refers to things like the drive, confidence, focus, chutzpah, enthusiasm, grit, determination, need, desire, fortitude, and inspiration to accomplish a task at hand. Although difficult to measure and manage, without the right attitude, having only the aptitude and available resources will get you nowhere.
 
-\-Improved attitude can compensate for deficiencies in aptitude or resources
-
-\-A decrease in aptitude or resources often negatively affects attitude, which can further hinder the level of success
-
-\-The converse of the above is not true - a negative attitude does not decrease the level of aptitude or available resources
+* Improved attitude can compensate for deficiencies in aptitude or resources
+* A decrease in aptitude or resources often negatively affects attitude, which can further hinder the level of success
+* The converse of the above is not true - a negative attitude does not decrease the level of aptitude or available resources
 
 Attitude is the keystone in the success equation. All of these factors combined make learning how to improve someone’s attitude an extremely important skill. Managers need to be aware of, work to manage, and learn to develop the attitude (the determination, motivation, focus, drive, confidence) of their employees.
 
@@ -32,13 +28,13 @@ Poor management results in huge costs to an organisation. A disturbing truth for
 
 Taking the time to manage and develop the talent of one’s employees is a critical business imperative for managers of all levels. To do so, one must focus on the entire success equation - aptitude, attitude, and available resources.
 
-**2 - The what, thy, and when of coaching**
+### <mark style="color:yellow;">**2 - The what, thy, and when of coaching**</mark>
 
 “When the only tool you have is a hammer, everything looks like a nail.”
 
 How many times have you seen managers swoop in and try to “fix a little drop” with a heavy-handed approach that leaves things worse than they were before? They step back, wind up, and WHACK! They turn everything into a mess. Managers need a variety of tools in their well-appointed toolbox - and they need to know how to diagnose which situations call for which of their approaches.
 
-What is the tool of coaching?
+#### <mark style="color:yellow;">What is the tool of coaching?</mark>
 
 Managers should use coaching as a tool when an employee has the skills and ability to do the specific task, but for some reason they are struggling with the confidence, focus, motivation, drive, or bandwidth to deal with the situation in a manner that is as effective as possible.
 
@@ -50,16 +46,13 @@ The goal of the entire coaching process is to lead to higher levels of effective
 
 If we are not aware of the impact of our actions, thoughts, and feelings, then we have no reason to take action and start behaving any differently. As individuals, we spend most of out time in a reactive state.
 
-When to coach and when not to coach
+#### <mark style="color:yellow;">When to coach and when not to coach</mark>
 
 Learning how to recognise when and when not to coach is as important as learning how to coach.
 
-Is it about aptitude? Yes - Teach. No ->
-
-Is it about attitude? Yes - coach. No ->
-
-Is it available resources? No - start again, Yes ->
-
+Is it about aptitude? Yes - Teach. No ->\
+Is it about attitude? Yes - coach. No ->\
+Is it available resources? No - start again, Yes ->\
 Is there a lack of skill regarding dealing with lacking resources? Yes - teach, no ->
 
 Do they get in their own way dealing with lacking resources? Yes - coach, no - start again
@@ -68,7 +61,7 @@ If the employee needs skills, teach them, but be sure to do it while utilising c
 
 The trick for managers is to be able to look at a situation and then use the right mix of teaching and coaching that is required to get the employee what they need.
 
-**3 - How to coach and W.I.N B.I.G**
+### <mark style="color:yellow;">**3 - How to coach and W.I.N B.I.G**</mark>
 
 The coaching process
 
@@ -87,22 +80,20 @@ Remember that a manager’s job while coaching is not to fix anything, not to gi
 
 Because of the important role that questions have in the success of coaching, we want to explore the role of curiosity and the art of asking good questions.
 
-Determine coachability - Is it about aptitude, attitude, or resources?
+<mark style="color:yellow;">Determine coachability</mark> - Is it about aptitude, attitude, or resources?\
+<mark style="color:yellow;">Build awareness</mark> - What’s really going on? What do they want?\
+<mark style="color:yellow;">Move to action</mark> - What will they do? How will I know?
 
-Build awareness - What’s really going on? What do they want?
-
-Move to action - What will they do? How will I know?
-
-Coaching questions
+#### <mark style="color:yellow;">Coaching questions</mark>
 
 The only way to help another person enhance their attitude and thereby reach higher levels of effectiveness is by creating a dialogue that leads them to awareness and action. This dialogue is created not by telling, but by asking.
 
-Questions\
+#### <mark style="color:yellow;">Questions</mark>
+
 1 - Keep them open\
 2 - Keep them advice-free\
 3 - Keep them short and simple\
-4 - Keep them thought-provoking
-
+4 - Keep them thought-provoking\
 5 - Keep them forward-focused
 
 Starting questions with words such as “will”, “did”, and “have” will likely lead you into a closed-ended question. Try to rephrase those question to start with words such as “what”, “who”, and “how”.
@@ -119,41 +110,34 @@ What do you want? What will that get you? What’s stopping you?
 
 If you ever get stuck and seriously can’t think of a question, say “I’m not sure what to ask. What question should I be asking you?” Most of the time, the person will ask a question that moves them to a new level of awareness or action.
 
-Keep them forward-focussed
+#### <mark style="color:yellow;">Keep them forward-focussed</mark>
 
 One of the ways people’s attitude is affected is by replaying past events. As a coach, you want to help the employee step back from the events, learn from them, and then focus forward.
 
 People need to complain before they can create. This is important for managers to remember. Allow people to vent for a few minutes and the acknowledge what they’re going through before moving them to a place of problem solving.
 
-Rephrasing “why” questions
+#### <mark style="color:yellow;">Rephrasing “why” questions</mark>
 
-Why did you do that? -> What were you hoping to gain?
-
-Why did you tell her that? -> How did that work out for you?
-
+Why did you do that? -> What were you hoping to gain?\
+Why did you tell her that? -> How did that work out for you?\
 Why are you going to run six more samples? -> How will running size more samples increase your confidence?
 
-The W.I.N B.I.G coaching formula
+### <mark style="color:yellow;">The W.I.N B.I.G coaching formula</mark>
 
-**W**onder about the root cause - Discovery
-
-**I**nvestigate wants - Visioning
-
-**N**ame possible solutions - Problem solving
-
-**B**uild a plan - Action
-
-**I**nsure action - Accountability
-
+**W**onder about the root cause - Discovery\
+**I**nvestigate wants - Visioning\
+**N**ame possible solutions - Problem solving\
+**B**uild a plan - Action\
+**I**nsure action - Accountability\
 **G**ive affirmation - Validating
 
-W - Wonder about the root cause - Discovery
+#### <mark style="color:yellow;">W - Wonder about the root cause - Discovery</mark>
 
 It’s easy to get caught up in the problem or crisis. It’s easy to see that sales are decreasing, for instance, and assume that the sales team must be the problem. However, 99% of the time, what you see if just a symptom, not the real problem.
 
 So take the time to help your employees wonder and discover. Remember, you are building their awareness to increase effectiveness. Be curious and playful, and keep thinking Discovery Channel until you feel as though you have gathered enough information about the feelings and the root cause and then move on to stage two - Investigate wants.
 
-I - Investigate wants - Visioning
+#### <mark style="color:yellow;">I - Investigate wants - Visioning</mark>
 
 Next, it’s time to look at what the person wants to have happen, how they want to be as things move forward, and what they want as the outcome.
 
@@ -169,7 +153,7 @@ Deep down, we all know what we want. We just don’t always get a chance to voic
 
 Because people can be so wrapped around the axle, they sometimes will say they don’t know what they want. If you get an “I don’t know” to one of your questions, respond by saying, “that’s fine, make it up”.
 
-N - Name possible solutions - Problem-solving
+#### <mark style="color:yellow;">N - Name possible solutions - Problem-solving</mark>
 
 Remember that you are still trying to build awareness, so the goal of this stage is to help the person become aware of the magnitude of possible solutions and choices that they have in the situation as they move toward their vision.
 
@@ -177,14 +161,10 @@ It can be difficult for some employees to reject an idea from their manager. If 
 
 Essentially, as a coach, you don’t want the person to accept your idea - you want them to take it and build on it so that it becomes their own, more-improved version.
 
-The 85 year-old version of you is looking back. What will he say?
-
-What are some ways to make that happen? What do you have to do to get where you want to go?
-
-What would it take to work this out?
-
-Inspire your employees to think bigger and consider different options.
-
+The 85 year-old version of you is looking back. What will he say?\
+What are some ways to make that happen? What do you have to do to get where you want to go?\
+What would it take to work this out?\
+Inspire your employees to think bigger and consider different options.\
 What else? That’s a great idea, what’s another? Great, let’s think of five more.
 
 So which option gets you closest to what you want? What would be the effects of your favourite solution?
@@ -195,33 +175,27 @@ Move to action - B.I.G
 
 If you never move to action, you have done nothing but have nice conversations with your employees. The goal is concrete action - doing things differently to reach higher levels of success.
 
-B - Build a plan - Action
+#### <mark style="color:yellow;">B - Build a plan - Action</mark>
 
 You’ll notice here that your questions begin to get more specific and, to a certain degree, more closed-minded. It is fine to ask, “Will you do that by next Friday?” The answer will probably be yes or no, and that’s fine at this stage because you need specifics.
 
 Goals and tasks often need to be chunked down to manageable pieces; otherwise, the person gets overwhelmed and gives up.
 
-Challenge ideas
+#### Challenge ideas
 
-I’m going to do this five times -> Great. Could you make it nine?
-
-I will talk to this person by next Friday -> How about this Friday?
-
-I could announce this next meeting -> Could or will? How about sending an email this week?
-
-Not every coaching conversation has to end with a change-the-world type of plan; sometimes committing to observation for the sake of self-awareness can be a huge action step.
-
+I’m going to do this five times -> Great. Could you make it nine?\
+I will talk to this person by next Friday -> How about this Friday?\
+I could announce this next meeting -> Could or will? How about sending an email this week?\
+Not every coaching conversation has to end with a change-the-world type of plan; sometimes committing to observation for the sake of self-awareness can be a huge action step.\
 Be specific and don’t be afraid to throw out a challenge or two.
 
-I - Insure action - Accountability
+#### <mark style="color:yellow;">I - Insure action - Accountability</mark>
 
 Your goal here is to insure action by establishing an accountability system. Having the coachee say they are going to do something is not enough. Here, you want to ask specific questions like:\
 \-How will I know? -When will you let me know how it goes? -How much time do you need before a check in?
 
-\-How will I know if you need a nudge? What’s the best way for you to circle back to me?
-
-\-What should I do if you don’t get back to me? -How would you like me to follow up if I don’t hear back?
-
+\-How will I know if you need a nudge? What’s the best way for you to circle back to me?\
+\-What should I do if you don’t get back to me? -How would you like me to follow up if I don’t hear back?\
 \-If you don’t follow through, how should I help get you back into gear?
 
 Some people prefer an email reminder, some want a personal visit because they respond well to pressure. Talk about what will work for the person, and then make sure that if need be, you do it! The key here is to do it compassionately and frankly.
@@ -238,7 +212,7 @@ Follow up to insure actions
 
 The “action” of a coaching conversation does not happen during the conversation; it begins when the conversation ends and the coachee sets out to do something differently than before. Even more important id for you to follow through on your follow up!
 
-G - Give affirmation - Validation
+#### <mark style="color:yellow;">G - Give affirmation - Validation</mark>
 
 Take the time to give affirmation and acknowledge their hard work and their desire to grow and change. Your purpose here is to validate the goals, efforts, and plans that the person is putting forth and to validate the strengths and qualities that you see, think, or know will make them succeed as they move forward. This is a time for you to encourage, inspire, and motivate.
 
@@ -246,7 +220,7 @@ They want, and need, to know that you believe in their ability to make the chang
 
 When you give affirmation, be prepared to follow it with a brief pause. People are not used to hearing good things about themselves, and for many people, receiving validation is actually an uncomfortable experience. When you are in this stage, or or anytime that you are pointing out someone’s strengths, take a few seconds at the end of your statement and “let it land.”
 
-**Coaching frequently asked questions**
+### <mark style="color:yellow;">**Coaching frequently asked questions**</mark>
 
 No matter how long it takes, coaching should never feel rushes.
 
@@ -262,9 +236,9 @@ If, however, you are fairly certain the employee’s solution will not succeed, 
 
 You don’t have to like the ideas your employees come up with, but you do have to tell them in a way that empowers them and keeps them returning to be coached.
 
-**The tenets of Coaching**
+### <mark style="color:yellow;">**The tenets of Coaching**</mark>
 
-Mindset
+#### <mark style="color:yellow;">Mindset</mark>
 
 The first seven tenets are the lens you look through when coaching. They will help you approach a coaching conversation with an open mind, allowing both you and the coachee the necessary space to create an effective coaching conversation.
 
@@ -276,7 +250,7 @@ The first seven tenets are the lens you look through when coaching. They will he
 6. Trust your gut - listen to gut reactions and get the coachee to acknowledge their own
 7. Build awareness before action - build a good process before acting
 
-Coaching actions
+#### <mark style="color:yellow;">Coaching actions</mark>
 
 There are some specific things you need to do and different skills you need to apply during a coaching conversation. These tenets are the practical aspects of coaching.
 
@@ -288,7 +262,7 @@ There are some specific things you need to do and different skills you need to a
 6. Feedback - give specific feedback on behaviour
 7. Celebrate - acknowledge their accomplishment
 
-Tricks of the trade
+#### <mark style="color:yellow;">Tricks of the trade</mark>
 
 You won’t need to use these tenets in each coaching conversation. However, you may need to keep them in mind do that when the occasion arises, you can use them appropriately.
 
@@ -300,33 +274,26 @@ You won’t need to use these tenets in each coaching conversation. However, you
 6. Address fears - identify the person’s fears that stop them moving forward
 7. Create vision - help the person determine their vision and work towards it
 
-Believe in potential
+#### <mark style="color:yellow;">Believe in potential</mark>
 
-\-When is the person at their best?
-
-\-When have you caught a glimpse of what they are capable of?
-
-\-Jot down some of the characteristics and traits that you saw in the person at the time
-
+\-When is the person at their best?\
+\-When have you caught a glimpse of what they are capable of?\
+\-Jot down some of the characteristics and traits that you saw in the person at the time\
 \-If the person has the ability to be focused, productive, charismatic, and funny during that time, what is it theta keeps me from seeing them this way more of the time?
 
-Responses and followup examples
+#### <mark style="color:yellow;">Responses and followup examples</mark>
 
-No, I don’t think that’s it > Great, what do you think it is?
-
-I’m not sure that’d work > OK, what would work?
-
-I don’t think I could do that > Well, what could you do?
-
-Don’t know and don’t fix it
-
+No, I don’t think that’s it > Great, what do you think it is?\
+I’m not sure that’d work > OK, what would work?\
+I don’t think I could do that > Well, what could you do?\
+Don’t know and don’t fix it\
 Good managers delegate well, communicate well, and see the bigger picture at work.
 
 Your job is to help the coach see the bigger picture of their issue, and help them believe that they know everything they need to know to find the solution they’re looking for. Your job is to ask questions that prompt them to do their best thinking.
 
 When you coach someone, it’s OK (and even encouraged!) to say that you don’t know the answer and trust that they do know the answer, even if they don’t think they do. This not only empowers them, enabling them to grow and develop, but it also allows you to move forward in your own work, rather than delving into the minutia of theirs.
 
-Response and followup
+#### <mark style="color:yellow;">Response and followup</mark>
 
 I don’t know how to fix this problem > What’s the biggest thing standing in your way?
 
@@ -334,7 +301,7 @@ I’ve tried everything; nothing is working > OK, take a step back. What haven�
 
 I think we need to start from scratch > Great. What would that look like and how would it affect the project timeline?
 
-Keep it light and fun!
+#### <mark style="color:yellow;">Keep it light and fun!</mark>
 
 People learn best when they’re having fun and interacting. So it’s OK to show your silly side; it helps your coachee lighten up too.
 
@@ -348,7 +315,7 @@ This project is much more complicated and difficult than I expected > What has y
 
 I don’t know. She’s just driving me crazy > Sounds like she is stepping on something you value, like your commitment to quality, perhaps. What is it?
 
-Trust your gut
+#### <mark style="color:yellow;">Trust your gut</mark>
 
 The best managers use their instincts to guide their actions. If something doesn’t feel right to them, even if it looks good on paper, they investigate it further to see if anything is missing or miscalculated.
 
@@ -358,7 +325,7 @@ Your job is not to tell them to trust your instincts and insist that your instin
 
 By listening to your instincts and stating what is going on for you, you allow the coachee to examine themselves and move to a different level of problem solving.
 
-Response and follow up
+#### <mark style="color:yellow;">Response and follow up</mark>
 
 I think that changing the report format will help matters > I just got an adrenaline rush when you said that. What does your instinct tell you about this possible solution?
 
@@ -366,13 +333,13 @@ I want you to tell accounting to bill our #1 client a late fee. What do you thin
 
 The numbers look good for this project, but my gut tells me not to do this > What is your gut telling you to do?
 
-Build awareness before action
+#### <mark style="color:yellow;">Build awareness before action</mark>
 
 The quality of our end product is greatly affected by the process we follow to get there. Without a good process, accomplishing the task at hand is difficult.
 
 The best managers take time to think about the process, as well as the task.
 
-Response and followup
+#### <mark style="color:yellow;">Response and followup</mark>
 
 The IT department is delaying my work all the time > What else would be causing the delays?
 
@@ -380,9 +347,9 @@ I can’t work with Sue. She’s impossible > What’s the real issue in your dy
 
 I’m overwhelmed with my workflow; it’s too much > What do you think is causing the work overload?
 
-**The seven tenets of coaching actions**
+### <mark style="color:yellow;">**The seven tenets of coaching actions**</mark>
 
-Mirror
+#### <mark style="color:yellow;">Mirror</mark>
 
 You have to act like a mirror and paint a picture of what is going on and let the employee interpret or react to what they see.
 
@@ -390,35 +357,35 @@ Hold up the mirror and explain to the coachee what you’re seeing. It will unbl
 
 When mirroring, concisely and matter-of-factly explain what you heard and saw, without any judgement or condemnation. Then ask the coachee to interpret what is in the mirror. The key is to stay detached from their answer; you just want to act like a mirror for them, allowing them to see what you see.
 
-Listen
+#### <mark style="color:yellow;">Listen</mark>
 
 The key to successful listening is to remove all distractions, sit back, and focus 100% on the coachee’s words, emotions, and body language. You then want to tell the coachee what you heard in all three of these areas so they can use that information as they solve their own problems.
 
-Create space
+#### <mark style="color:yellow;">Create space</mark>
 
 Creating space is one of the fundamental tenets of successful coaching. First of all, clear your area of all physical distractions.
 
 In addition to office interruptions, “create space” also means clearing your head and preparing yourself mentally for the coaching session.
 
-Validate
+#### <mark style="color:yellow;">Validate</mark>
 
 If you’re coaching someone, you’re helping them deal with something that they have not dealt with on their own. It may not seem like a big deal to you, but it is for them; otherwise, they wouldn’t be asking for your help. Validation can give people the confidence and motivation to get through their challenging situations.
 
 The key to successful validating is to speak what you believe to be true regarding the coachee. It’s important to remember that it’s not about you and how they’ve impressed you. The validation is about them and their inner strength and power.
 
-Feedback
+#### <mark style="color:yellow;">Feedback</mark>
 
 Be specific, be focussed on behaviour, focus on the impact of that behaviour, help them determine alternative behaviour that leads to an alternate effect, and speak in a matter-of-fact manner, without judgement or condemnation.
 
-**Tricks of the trade**
+### <mark style="color:yellow;">**Tricks of the trade**</mark>
 
-Bottom Line
+#### <mark style="color:yellow;">Bottom Line</mark>
 
 A coach’s job is to get to the bottom line as quickly as possible, even if it means cutting some people off before they finish their story. This is necessary because often people think that “the story” is the real issue, when most often it isn’t.
 
 Validating a person’s emotions after a bottom-line response can help them move on even more quickly. “Wow, that sounds really frustrating” lets a person know you heard them and help them prepare to move on.
 
-Word choice
+#### <mark style="color:yellow;">Word choice</mark>
 
 Why: Asking “why” can put someone on the defensive, shutting down the conversation instead of opening it up for creative solutions.
 
@@ -426,24 +393,21 @@ Should: Using the word “should” places your thoughts, judgements, and soluti
 
 Not/Can’t: Using the words “not” and “can’t” creates a negative spin to the coaching conversation, limiting your belief in the coachee’s potential.
 
-Red-flag words\
-Always -> Sometimes
+#### <mark style="color:yellow;">Red-flag words</mark>
 
-Everyone -> Some people
-
-All the time -> Sometimes
-
-Never -> Rarely
-
+Always -> Sometimes\
+Everyone -> Some people\
+All the time -> Sometimes\
+Never -> Rarely\
 Can’t -> Won’t / choose not to
 
 Some of these red-flag words are: always, never, everyone, can’t, and all. These words tend to be gross generalisations, based on a story and not on fact. When a coachee uses these words, they are usually living out a story in their head, instead of living out daily reality.
 
-Story shift
+#### <mark style="color:yellow;">Story shift</mark>
 
 Everyone has a story, or a perspective, on a situation. You could have ten people in the same room at the same time, involved in the same event, and you’d have ten different stories on what happened, none of which is totally right or wrong. However, the problem comes when we get attached to one story and think that our personal story is the only one, or the right one.
 
-Coach the person
+#### <mark style="color:yellow;">Coach the person</mark>
 
 An effective manager focuses on coaching only the coachee, not anyone else that the coachee may mention during a conversation.
 
@@ -451,7 +415,7 @@ The more attached they are to their story, the more they will need to look at di
 
 Your job is to focus on the coachee and not get distracted by anyone that the coachee talks about. This allows the coachee to focus on themselves, how they get in their own way, and how they can get out of their self-imposed box.
 
-Deal with resistance
+#### <mark style="color:yellow;">Deal with resistance</mark>
 
 Self-management is the key when coaching someone who is resistant. You need to know how to manage your own buttons so that if the coachee accidentally pushes them when talking about their problem, you’ll still be able to focus on them 100%.
 
@@ -461,7 +425,7 @@ Be curious about their resistance and worry about yourself later, when you’re 
 
 When someone is resistant, your job is to be curious about the problem. Continue to ask open-ended questions and really listen and mirror back what you hear and see.
 
-Response and followup
+#### <mark style="color:yellow;">Response and followup</mark>
 
 I don’t know the answer to that question -> That’s fine. What do you know to be true about the problem at hand?
 
@@ -469,13 +433,13 @@ This is a waste of time -> What would have to happen for it to be a better use o
 
 It’s pointless to talk about this -> OK. So what’s the outcome of not dealing with it?
 
-Create vision
+#### <mark style="color:yellow;">Create vision</mark>
 
 Every manager needs to know the organisational vision, so that they can steer their team in the right direction to achieve the company’s goals. By the same token, every manager needs to know their individual team member’s vision and goals as well.
 
 Don’t judge or mock the fear; just point it out and ask open-ended questions so the coachee can identify the fear and decide the next step.
 
-**How to use this book**
+### <mark style="color:yellow;">**How to use this book**</mark>
 
 1. Clear distractions
 2. Clear your mind
@@ -488,9 +452,9 @@ Don’t judge or mock the fear; just point it out and ask open-ended questions s
 9. Remember, awareness before action
 10. Follow up
 
-**Coaching employees and colleagues**
+### <mark style="color:yellow;">**Coaching employees and colleagues**</mark>
 
-**Set Up**
+#### <mark style="color:yellow;">**Set Up**</mark>
 
 Determine Coachability
 
@@ -502,7 +466,7 @@ Explain the tool
 
 People are fine with managers using tools; they just need to understand what the tool is and how you will use it. So don’t just spring this book and all of these questions on people.
 
-**Build awareness - W.I.N**
+#### <mark style="color:yellow;">**Build awareness - W.I.N**</mark>
 
 W - Wonder about root causes
 
@@ -516,7 +480,7 @@ N - Name possible solutions
 
 Pick a question from the problem-solving section. The conversation should have the feel of a brainstorming session. Pick as many questions as you need, or ask your own, to get the person to think through multiple ways of solving the problem.
 
-**Move into action - B.I.G**
+#### <mark style="color:yellow;">**Move into action - B.I.G**</mark>
 
 B - Build a plan
 
@@ -530,66 +494,55 @@ G - Give affirmation
 
 By sure to answer it in a way to validate the efforts your employee is making at that moment.
 
-**Using the book to coach yourself**
+#### <mark style="color:yellow;">**Using the book to coach yourself**</mark>
 
 Keep a journal of your coaching thoughts and periodically review your insights - you’ll be amazed at how much you’re learning!
 
-1 - Determine coachability - Is coaching the best option?
-
-2 - Get prepared - grab a journal and find a quiet spot
-
+1 - Determine coachability - Is coaching the best option?\
+2 - Get prepared - grab a journal and find a quiet spot\
 3 - Pick a chapter - specific situation, chapter 6; general situations, chapter 7.
 
 Take the time to acknowledge what you are learning - give yourself the credit you deserve.
 
-**W.I.N B.I.G questions for specific coaching**
+#### <mark style="color:yellow;">**W.I.N B.I.G questions for specific coaching**</mark>
 
-Common issues managers face:\
-\-Interpersonal problems
+Common issues managers face:
 
-\-Motivation
+* Interpersonal problems
+* Motivation
+* Time management
+* Dealing with conflict
+* Clarifying goals
+* Lack of available resources
+* Developmental opportunities
+* Life balance
+* Conflicting priorities
+* Delegation
+* Increasing confidence
 
-\-Time management
-
-\-Dealing with conflict
-
-\-Clarifying goals
-
-\-Lack of available resources
-
-\-Developmental opportunities
-
-\-Life balance
-
-\-Conflicting priorities
-
-\-Delegation
-
-\-Increasing confidence
-
-Wonder about root cause
+#### <mark style="color:yellow;">Wonder about root cause</mark>
 
 Use the wonder about the root cause section as a way to ensure that you are coaching about the real issue, and then move on.
 
-Investigate wants
+#### <mark style="color:yellow;">Investigate wants</mark>
 
 In this section, your goals is to help the employee clarify what they really want from the situation and whom they want to be as they move in that direction.
 
-Build a plan
+#### <mark style="color:yellow;">Build a plan</mark>
 
 Which of the possible solutions gets you closest to what you want?
 
 Which one do you think you should pursue?
 
-Insure action
+#### <mark style="color:yellow;">Insure action</mark>
 
 Your goal here is to help the employee hold true to their commitments by establishing an accountability system.
 
-Give affirmation
+#### <mark style="color:yellow;">Give affirmation</mark>
 
 Real validation has to come from you, not a book!
 
-**Self-coaching**
+#### <mark style="color:yellow;">**Self-coaching**</mark>
 
 1. How is all of this helping you move toward becoming the person that you want to be?
 2. What are three things in all of this that you should give yourself credit for?Pick an animal you respect.
@@ -601,9 +554,9 @@ Real validation has to come from you, not a book!
 8. In what ways are you being the person you want to be right now?
 9. What’s something that you are doing/plan on doing in all of this that is a stretch for you? How does that stretch excite you?
 
-**Coaching questions**
+### <mark style="color:yellow;">**Coaching questions**</mark>
 
-Wonder about the root cause
+#### <mark style="color:yellow;">Wonder about the root cause</mark>
 
 1. So what’s really going on?
 2. What’s the effect of not dealing with this issue?
@@ -620,7 +573,7 @@ Wonder about the root cause
 13. How is this similar to other times in your life when you \*issue\*?
 14. Which of your buttons are really getting pushed in this situation?
 
-Investigate wants
+#### <mark style="color:yellow;">Investigate wants</mark>
 
 1. If this situation was resolved, what would be different in your life? What would that get you?
 2. If you were writing a moving about \*issue\*, how would you write the ending?
@@ -634,7 +587,7 @@ Investigate wants
 10. What happens if this doesn’t motivate you? Then what happens? What’s the learning from that?
 11. If you could do anything you wanted in this situation, what would you do?
 
-Name possible solutions
+#### <mark style="color:yellow;">Name possible solutions</mark>
 
 1. How would a child solve this problem?
 2. What haven’t you tried that you know would be helpful?
@@ -645,7 +598,7 @@ Name possible solutions
 7. What type of person would you want to be during \*tackling issue\*?
 8. How would \[fictional character] tackle this issue?
 
-Build a plan
+#### <mark style="color:yellow;">Build a plan</mark>
 
 1. So what do you need to do to get what you want in \*issue\*?
 2. How might this solution influence \*other areas related to issue\*? How will that affect your plan?
@@ -655,7 +608,7 @@ Build a plan
 6. How will you know that this solution is a success?
 7. What’s the biggest obstacle to implementing your decision? What safeguards do you want to build in to ensure success?
 
-Insure action
+#### <mark style="color:yellow;">Insure action</mark>
 
 1. Whom else would you talk to who will hold you accountable?
 2. When you think of your priorities, what needs to shift as you add this to your plate?
@@ -664,7 +617,7 @@ Insure action
 5. What support or direction do you need from me?
 6. How will you celebrate your success both individually and as a group?
 
-Give affirmation
+#### <mark style="color:yellow;">Give affirmation</mark>
 
 1. How is this person stretching out of their comfort zone right now?
 2. How is this person being courageous right now?
