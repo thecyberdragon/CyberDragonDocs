@@ -545,10 +545,10 @@ We might think of the three principles as three different tools. When coach and 
 
 “You tell me if I go too far”.
 
-The expanding world of coaching - Coachee relationships
+#### <mark style="color:yellow;">The expanding world of coaching - Coachee relationships</mark>
 
 It is the three-way dynamic created between the coach, the coachee, and the organisation. In this case, the coach needs to design a three-way alliance. Issues of confidentiality must be defined and roles clarified. Does the organisation expect a report from the coach or the coachee? Who sets the goals and criteria for the coaching - coachee or organisation?
 
-Workplace coaches
+#### <mark style="color:yellow;">Workplace coaches</mark>
 
 It is especially important for workplace coaches to be clear about the boundaries for the coaching relationship.
