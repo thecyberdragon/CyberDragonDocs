@@ -1,14 +1,14 @@
-# 🗣️ Book: Coaching For Performance
+# 📖 Book: Coaching For Performance
 
 ## <mark style="color:red;">Book: Coaching for Performance</mark> <a href="#yjngd6hzmjga" id="yjngd6hzmjga"></a>
 
 ***
 
-### <mark style="color:yellow;">Forward</mark>
+#### <mark style="color:yellow;">Forward</mark>
 
 Principles define the centre of gravity, or the ideal state, or what is truly desired. Rules define the boundary of what is acceptable and in many cases limit the growth of what is possible. Running an organisation by rules generally leads to a company operating at the boundary of what is tolerable, rather than fulfilling its potential.
 
-Coaching is bigger than coaching
+### <mark style="color:yellow;">Coaching is bigger than coaching</mark>
 
 Performance = potential - interference.
 
