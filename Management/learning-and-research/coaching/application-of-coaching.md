@@ -1,4 +1,4 @@
-# ✏️ Application of Coaching
+# 📄 Application of Coaching
 
 ## <mark style="color:red;">**Stage 1 - Foundation Session**</mark>
 
@@ -185,23 +185,23 @@ When coachees have finished this visualisation and after a breather, coach them 
 
 The whole journey up and down taking, say, 15 minutes. The debriefing will be as long as a piece of string.
 
-<mark style="color:yellow;">Coaching mindset</mark>
+#### <mark style="color:yellow;">Coaching mindset</mark>
 
 The coach believes that the coachee is capable, resourceful, and full of potential. Believing in the dormant capability of a person will build their self-belief and self-motivation and enable them to flourish. And with that mindset, you can coach them to make their own powerful choices and find enjoyment in their performance and their success.
 
-<mark style="color:yellow;">Gremlin</mark>
+#### <mark style="color:yellow;">Gremlin</mark>
 
 The personification of a belief that blocks us from moving forward. The coaching perspective is that the belief developed to keep us safe and that by becoming aware of it we can choose how it impacts our life. Rick Carson's book Taming your gremlin is excellent for clearing gremlins.
 
-<mark style="color:yellow;">Permission</mark>
+#### <mark style="color:yellow;">Permission</mark>
 
 By asking if the coachee is happy to be coached in sensitive, intimate, or new areas, or before offering a hard truth or speaking to a gut feeling, the coach creates a safe environment, helps to build trust, and makes sure coaching remains a partnership.
 
-<mark style="color:yellow;">Coaching questions toolkit</mark>
+#### <mark style="color:yellow;">Coaching questions toolkit</mark>
 
 The golden rule is to be clear and brief. Sometimes the most powerful questions lead to a long silence, so don't feel the need to jump in with another question if there is a long pause.
 
-### <mark style="color:yellow;">Self-coaching</mark>
+#### <mark style="color:yellow;">Self-coaching</mark>
 
 What would you like to work on? What would you like to have after answering this set of questions?\
 What is your first goal related to this issue? When are you going to achieve it?\
@@ -214,172 +214,64 @@ What will you act on? When are you going to start each one? Who can support you?
 
 How committed 1-10 are you on each step? What will you commit to doing?
 
-## <mark style="color:red;">Questions</mark>
-
-***
-
-### <mark style="color:yellow;">Asking Permission</mark>
-
-* Can I add to what you said?
-* Can I ask you…
-* Would it be helpful if I tell you what I’m hearing?
-* Can I make a suggestion?
-
-### <mark style="color:yellow;">Follow-up</mark>
-
-* Where are you with this project/goal?
-* What has happened so far since we last spoke?
-* How do you feel about where you are with this?
-* What have you achieved?
-
-### <mark style="color:yellow;">The coachee succeeded</mark>
-
-* What’s working well and why? What are you most pleased with?
-* What’s enabled you to get this far? What skills, qualities, or strengths of yours contributed to this?
-* What behaviours were most effective?
-* What did you learn?
-* What challenges did you overcome and how?
-* What’s next for you?
-
-### <mark style="color:yellow;">The coachee did not succeed</mark>
-
-* What happened? What did you learn from that?
-* What’s not going well and why? What challenges have you had? How have you dealt with these challenges?What do you want to do next time? How will you move on from this?
-* What gaps in skills, knowledge, or experience would you like to develop?
-* What behaviours would you change next time?
-* What’s the biggest block?What’s the most effective thing you could do to overcome this block?
-
-### <mark style="color:yellow;">The coachee did not do it</mark>
-
-* What happened? What kept you from doing it?
-* What does it mean to you? What did you learn about yourself?
-* What will you do?
-
-### <mark style="color:yellow;">GROW Questions</mark>
+The golden rule for feedback is that in each step of the framework the coachee shares first and the coach adds their perspective second.
 
 #### <mark style="color:yellow;">Goal</mark>
 
-\-What would be the most helpful thing for you to take away at the end of our conversation?\
-\-If you had a magic wand, where would you like to be at the end of this?\
-\-What will this enable you to do?\
-\-What stretch will you need to achieve this goal?\
-\-What milestones can you identify? What are their timeframes?\
-\-How would you break this goal down into smaller pieces?
-
-#### <mark style="color:yellow;">Reality</mark>
-
-\-On a scale of 1-10, if an ideal situation is 10, what number are you at now?\
-\-What number would you like to be at?\
-\-How much control do you have personally over the outcome?\
-\-What action(s) have you taken so far?\
-\-What internal resistance do you have to taking action?\
-\-What is your plan so far?\
-\-What can you count on yourself for here?\
-\-What are you most/least confident about?
-
-#### <mark style="color:yellow;">Options</mark>
-
-\-What has worked in the past?\
-\-Who could help you with this?\
-\-What would you do if you had more time/control/money?\
-\-Which collusion appeals to you most?
-
-#### <mark style="color:yellow;">Will</mark>
-
-\-What will you do? How will you do that? When will you do it? Who will you talk to? Where will you go?\
-\-How committed are you to taking that action?\
-\-To what extent will this meet the goal you have?\
-\-What is your first step?\
-\-When precisely are you going to start?\
-\-What stops you from starting earlier?\
-\-What obstacles might you encounter along the way? Do you have any personal resistance?\
-\-What will you do to minimise these factors?\
-\-Who else needs to know what your plans are?\
-\-What support do you need? From whom?\
-\-What will you do to get that support?\
-\-How will I know?\
-\-What other considerations do you have?
-
-
-
-GROW feedback framework
-
-The golden rule for feedback is that in each step of the framework the coachee shares first and the coach adds their perspective second.
-
-Goal
-
-\-What do you want to get out of this?
-
-\-What would be helpful for you?
+* What do you want to get out of this?
+* What would be helpful for you?
 
 Coach: I want….
 
-Reality
+#### <mark style="color:yellow;">Reality</mark>
 
-\-What is going well?
-
-\-What did you like about what you did or how you did it?
-
-\-What worked well? What behaviours were most effective?
-
-\-What do you think contributed most to your success?
+* What is going well?
+* What did you like about what you did or how you did it?
+* What worked well? What behaviours were most effective?
+* What do you think contributed most to your success?
 
 Coach:
 
-\-I liked….\
-\-I found what worked well was….
+* I liked….
+* I found what worked well was….
+* I felt that you consistently surpassed goals and expectations by….
+* I recognise the effort you put into…
+* Strengths that I see are….
 
-\-I felt that you consistently surpassed goals and expectations by….
+#### <mark style="color:yellow;">Options: Improve</mark>
 
-\-I recognise the effort you put into…
-
-\-Strengths that I see are….
-
-Options: Improve
-
-\-If you could do it again, what would you do differently?
-
-\-What behaviours would you change next time?
-
-\-What got in the way of you achieving?
-
-\-What would enable you to achieve greater consistency/quality in the future?
-
-\-Where specifically over the past year would additional skills or experience have been helpful?
+* If you could do it again, what would you do differently?
+* What behaviours would you change next time?
+* What got in the way of you achieving?
+* What would enable you to achieve greater consistency/quality in the future?
+* Where specifically over the past year would additional skills or experience have been helpful?
 
 Coach:
 
-\-Can I make a suggestion?
+* Can I make a suggestion?
+* I feel you could stretch yourself by…
+* How about…?
+* Ways to further leverage your strengths would be to….
+* The reason this developmental area is important is….
 
-\-I feel you could stretch yourself by…
+#### <mark style="color:yellow;">Will: Learn</mark>
 
-\-How about…?
-
-\-Ways to further leverage your strengths would be to….
-
-\-The reason this developmental area is important is….
-
-WIll: Learn
-
-\-What did you learn that you can apply going forward?
-
-\-What are you learning about yourself?
-
-\-What are you learning about others?
-
-\-What do you now know about this goal that you didn’t previously?
-
-\-What else can we learn?
+* What did you learn that you can apply going forward?
+* What are you learning about yourself?
+* What are you learning about others?
+* What do you now know about this goal that you didn’t previously?
+* What else can we learn?
 
 Coach:
 
-\-I am learning….
+* I am learning….
+* I will do…..
 
-\-I will do…..
+## <mark style="color:red;">**Coactive Coaching Framework**</mark>
 
-Coactive coaching book
+***
 
-**2: The co-active coaching relationship**
+### <mark style="color:yellow;">**2: The co-active coaching relationship**</mark>
 
 Goals change over time as coachees clarify what is important, as they dig deeper into what motivates them, and as they take action and learn from the actions they take.
 
@@ -389,7 +281,7 @@ The goal for an effective coaching conversation is a relationship environment th
 
 2- It is a courageous place where coachees are able to approach their lives and the choices they make with motivation, creativity, and commitment.
 
-Trust
+#### <mark style="color:yellow;">Trust</mark>
 
 An agreement to hold the coaching conversation confidential is one key component in building trust. Trust is also built over time as both coachee and coach learn they can be counted on and the coachee learns that the relationship delivers results.
 
@@ -399,40 +291,35 @@ This discovery phase focuses on where coachees are today and how they got there.
 
 Coachees and coach might talk about previous disappointments and successes in order to get an idea of what does and doesn’t work, where coachees are fulfilled, and the strategies they use to handle obstacles and derailment.
 
-Curiosity: Steering through curiosity
+#### <mark style="color:yellow;">Curiosity: Steering through curiosity</mark>
 
 If there is a reason to be curious about the past or survey the background, it might be to look for patterns or themes that are useful in the present conversation. This is not so that coaches have a better understanding about what happened; it is so coachees have a better understanding of what they value, the way they make decisions, and how they preserve or sabotage themselves.
 
 Sometimes the most powerful questions are the ones that sound the dumbest, or, if you prefer, simple and profound.
 
-Here are some “dumb” questions:\
-\-What does success look like (or feel like)?
+Here are some “dumb” questions:
 
-\-What’s next?
-
-\-What about that is important to you?
-
-\-What else?
-
-\-What did you learn?
-
-\-What will you do? When will you do it?
-
-\-Who do you need to be?
+* What does success look like (or feel like)?
+* What’s next?
+* What about that is important to you?
+* What else?
+* What did you learn?
+* What will you do? When will you do it?
+* Who do you need to be?
 
 There are times when you may think the questions i too dumb to ask - the answer is so obvious. Go ahead and ask it, and be open to being surprised. Even if you get the answer you expect, remember that the reason for asking is not so you can hear the answer; it is so the coachee can hear the answer and learn from it.
 
-Curiosity: Not-so-powerful questions and exceptions
+#### <mark style="color:yellow;">Curiosity: Not-so-powerful questions and exceptions</mark>
 
 When it comes to making questions powerful, the simpler and more direct, the better.
 
 A compound or complex questions forces coachees to sort out the essence of the question before they can respond, and they may get lost trying to figure it out. The powerful question is powerful because it cuts through to the heart of the issue.
 
-Forward and deepen: Main
+#### <mark style="color:yellow;">Forward and deepen: Main</mark>
 
 Action will look very different for different coachees. For some coachees, it will mean achieving specific goals or performing at a higher level. For others, action means integrating new practices or firmly establishing new habits. For still others, it will be paying attention to the more subjective quality of their lives. In whatever way coachees define action, it will be a focus in their coaching.
 
-F\&D: Accountability
+#### <mark style="color:yellow;">F\&D: Accountability</mark>
 
 As coaches, we hold coachees accountable - not to see them perform or even measure how well they perform, but to empower them in making the changes they want to make. Along the way, we celebrate their achievements and dig into the obstacles they encounter.
 
@@ -446,7 +333,7 @@ They are action oriented, even if the intention behind the action is qualitative
 
 The moment you become attached to the brilliance of your own idea and start thinking it’s the right way for the coachee to get results, it’s your agenda, not the coachee’s.
 
-F\&D: Putting structures to work
+#### <mark style="color:yellow;">F\&D: Putting structures to work</mark>
 
 A structure is any device that reminds coachees to be in action in the areas they have committed to.
 
@@ -454,11 +341,9 @@ Structures come in a myriad of forms. Setting an alarm to wake up is a simple ex
 
 The power of the structure is that it reminds coachees and recalls them to their commitments.
 
-\-Create a special screen saver with a theme line or visual image
-
-\-Track daily or weekly progress towards major goals on a wall chart
-
-\-Establish creative consequences or rewards
+* Create a special screen saver with a theme line or visual image
+* Track daily or weekly progress towards major goals on a wall chart
+* Establish creative consequences or rewards
 
 Structures are a way of sustaining the action and learning in the time between coaching sessions.
 
@@ -466,27 +351,27 @@ When you find yourself trapped in self analysis - defending, judging, feeling an
 
 Take a hard look at the areas in your own life where you get tangled up - where you see a pattern of historical trouble for yourself. Chances are, those are the same areas you are unwilling to probe in the coaching sessions. For you, they are blind spots, created out of self-protection.
 
-Self-management: Disconnected? Say so
+#### <mark style="color:yellow;">Self-management: Disconnected? Say so</mark>
 
 In that moment of disconnect, one of the most powerful things you can do is to admit it: “I’m sorry; I just went blank for a moment. Would you repeat what you just said? I missed that.”
 
-Self-management: Be ready
+#### <mark style="color:yellow;">Self-management: Be ready</mark>
 
 This is about being prepared for the upcoming coaching session in the usual ways you would prepare for any important conversation. It would be as simple as reviewing your notes from the most recent coaching session. More than that, in order to be present and ready, many coaches have a ritual they use before the appointment.
 
-Self-management: Recovery
+#### <mark style="color:yellow;">Self-management: Recovery</mark>
 
 Clearly, the most obvious skill for the context of self-management is the skill of recovery: the ability to notice the disruption or disconnection and to reconnect.
 
 There are three parts to the skill: noticing, naming, and reconnecting.
 
-Self-management: Asking permission
+#### <mark style="color:yellow;">Self-management: Asking permission</mark>
 
 One of the most important techniques the coach uses to remind the coachee that they are in charge of the coaching direction is to ask permission.
 
 Championing is an affirmation. It is your capacity to see their capacity. It is a form of future looking. You see them at the finish line, the top of the hill, goal accomplished.
 
-Self-management: Clearing
+#### <mark style="color:yellow;">Self-management: Clearing</mark>
 
 Imagine that your coachee is clearly annoyed about some injustice. There’s a mood about her that hangs in the air like an unpleasant odour. You might say, “You seem really blocked. Let’s take a couple of minutes to get this out. Really complain, whine, feel sorry for yourself. Exaggerate.”
 
@@ -500,46 +385,40 @@ The question is What would it take to be fulfilled? Then keep probing in that di
 
 For managers, a variation on this exercise is to have the employee design a “Wheel of life at work,” with each of the areas a significant part of the person’s work and career.
 
-Balance: Stage 4: Commitment
+#### <mark style="color:yellow;">Balance: Stage 4: Commitment</mark>
 
 Before you invite coachees to take action, make sure they’ve really made a commitment to their plans.
 
 Commitment implies there is no turning back. This is the point where you draw a line and ask the coachee to cross into new territory. Will you commit to that plan and take action? Will you do that?
 
-Process: Process coaching
+#### <mark style="color:yellow;">Process: Process coaching</mark>
 
 Sometimes the way forward involves going down into the experience first.
 
 The flow in process coaching has the following steps\
-1 - The coach senses the turbulence under the surface and names it
-
-2 - The coach explores it
-
-3 - The coachee experiences it
-
-4 - A shift happens
-
-5 - Energy opens up
-
-6 - The coachee has access to new resources
-
+1 - The coach senses the turbulence under the surface and names it\
+2 - The coach explores it\
+3 - The coachee experiences it\
+4 - A shift happens\
+5 - Energy opens up\
+6 - The coachee has access to new resources\
 7 - Movement happens
 
-Process: 2 - The coach explores it
+#### <mark style="color:yellow;">Process: 2 - The coach explores it</mark>
 
 Once you have heard and named the turbulence, the next step is to explore the territory - but first you must ask the coachee for permission.
 
-Process: Going up into it
+#### <mark style="color:yellow;">Process: Going up into it</mark>
 
 Coachees can be so driven to move on to the next stage or the next project or challenge that they want to skip the celebration of their accomplishments - and miss the chance to discover more about themselves and the keys to their success.
 
 As a coach, part of your job is to listen for the kind of avoidance that keeps your coachees from experiencing the whole range of musical notes available to them.
 
-Process: To be with
+#### <mark style="color:yellow;">Process: To be with</mark>
 
 A word or two is in order about the expression “be with,” which is often used with process coaching. We might say, for example, that the coachees are “being with” disappointment, or the coach is “being with” coachees and their disappointment.
 
-Putting it all together
+#### <mark style="color:yellow;">Putting it all together</mark>
 
 We might think of the three principles as three different tools. When coach and coachee explore values, a future vision, or the self-sabotage that can keep coachees from achieving their vision, the coach is pulling from the fulfilment toolkit. When the coach helps coachees look at an issue from a variety of different viewpoints or consider plans or action options, the toolkit is balance-based. The coach who forms a container around the current moment and delves more deeply into it is in the general area of process.
 
@@ -552,3 +431,92 @@ It is the three-way dynamic created between the coach, the coachee, and the orga
 #### <mark style="color:yellow;">Workplace coaches</mark>
 
 It is especially important for workplace coaches to be clear about the boundaries for the coaching relationship.
+
+## <mark style="color:red;">Questions</mark>
+
+***
+
+#### <mark style="color:yellow;">Asking Permission</mark>
+
+* Can I add to what you said?
+* Can I ask you…
+* Would it be helpful if I tell you what I’m hearing?
+* Can I make a suggestion?
+
+#### <mark style="color:yellow;">Follow-up</mark>
+
+* Where are you with this project/goal?
+* What has happened so far since we last spoke?
+* How do you feel about where you are with this?
+* What have you achieved?
+
+#### <mark style="color:yellow;">The coachee succeeded</mark>
+
+* What’s working well and why? What are you most pleased with?
+* What’s enabled you to get this far? What skills, qualities, or strengths of yours contributed to this?
+* What behaviours were most effective?
+* What did you learn?
+* What challenges did you overcome and how?
+* What’s next for you?
+
+#### <mark style="color:yellow;">The coachee did not succeed</mark>
+
+* What happened? What did you learn from that?
+* What’s not going well and why? What challenges have you had? How have you dealt with these challenges?What do you want to do next time? How will you move on from this?
+* What gaps in skills, knowledge, or experience would you like to develop?
+* What behaviours would you change next time?
+* What’s the biggest block?What’s the most effective thing you could do to overcome this block?
+
+#### <mark style="color:yellow;">The coachee did not do it</mark>
+
+* What happened? What kept you from doing it?
+* What does it mean to you? What did you learn about yourself?
+* What will you do?
+
+### <mark style="color:yellow;">GROW Questions</mark>
+
+#### <mark style="color:yellow;">Goal</mark>
+
+* What would be the most helpful thing for you to take away at the end of our conversation?
+* If you had a magic wand, where would you like to be at the end of this?
+* What will this enable you to do?
+* What stretch will you need to achieve this goal?
+* What milestones can you identify? What are their timeframes?
+* How would you break this goal down into smaller pieces?
+
+#### <mark style="color:yellow;">Reality</mark>
+
+* On a scale of 1-10, if an ideal situation is 10, what number are you at now?
+* What number would you like to be at?
+* How much control do you have personally over the outcome?
+* What action(s) have you taken so far?
+* What internal resistance do you have to taking action?
+* What is your plan so far?
+* What can you count on yourself for here?
+* What are you most/least confident about?
+
+#### <mark style="color:yellow;">Options</mark>
+
+* What has worked in the past?
+* Who could help you with this?
+* What would you do if you had more time/control/money?
+* Which collusion appeals to you most?
+
+#### <mark style="color:yellow;">Will</mark>
+
+* What will you do? How will you do that? When will you do it? Who will you talk to? Where will you go?
+* How committed are you to taking that action?
+* To what extent will this meet the goal you have?
+* What is your first step?
+* When precisely are you going to start?
+* What stops you from starting earlier?
+* What obstacles might you encounter along the way? Do you have any personal resistance?
+* What will you do to minimise these factors?
+* Who else needs to know what your plans are?
+* What support do you need? From whom?
+* What will you do to get that support?
+* How will I know?
+* What other considerations do you have?
+
+
+

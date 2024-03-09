@@ -2,7 +2,7 @@
 
 * [📚 Learning & Research](README.md)
   * [🗣️ Coaching](learning-and-research/coaching/README.md)
-    * [✏️ Application of Coaching](learning-and-research/coaching/application-of-coaching.md)
+    * [📄 Application of Coaching](learning-and-research/coaching/application-of-coaching.md)
     * [🫶 ICF Core Competencies](learning-and-research/coaching/icf-core-competencies.md)
     * [❓ ICF Etheical Standards](learning-and-research/coaching/icf-etheical-standards.md)
     * [📖 Book: Coaching For Performance](learning-and-research/coaching/book-coaching-for-performance.md)
