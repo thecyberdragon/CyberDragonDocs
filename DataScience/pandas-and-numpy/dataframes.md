@@ -112,6 +112,9 @@ df [ "new name" ] = values
 
 # new colume from existing column
 df[ "new name" ] = df[ "other name" ] ** 2
+
+# Using a substring from another column
+df[ "new name" ] = df[ "other name" ].str.slice(start_index, end_index)
 ```
 
 ### <mark style="color:yellow;">**Rename columns**</mark>
