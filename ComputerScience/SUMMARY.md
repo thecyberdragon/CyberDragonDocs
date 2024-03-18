@@ -19,6 +19,7 @@
     * [🗃️ Datetime](python/modules/datetime.md)
     * [🗃️ Random](python/modules/random.md)
   * [🐍 Virtual Environments](python/virtual-environments.md)
+  * [✏️ Object-Oriented Programming](python/object-oriented-programming.md)
 * [☁️ Google Cloud API](google-cloud-api.md)
 * [⏮️ Git & GitHub](git-and-github.md)
 * [👨‍💻 My Applications](my-applications/README.md)

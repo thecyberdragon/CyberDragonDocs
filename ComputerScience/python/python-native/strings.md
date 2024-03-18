@@ -13,3 +13,12 @@ lower_string = string_variable.lower()
 title_string = string_variable.title()
 ```
 
+#### <mark style="color:yellow;">String formatting</mark>
+
+```python
+# method 1
+str.format("this will say something {0}", "nice")
+
+# method 2
+"This will say something {last_word}".format(last_word = "nice")
+```
