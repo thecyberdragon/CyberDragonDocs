@@ -11,6 +11,16 @@ Example:\
 Student = class\
 person = Student()
 
+### <mark style="color:yellow;">Scope</mark>
+
+Global scope - variables accessible to the whole program\
+Local scope - variables accessible only to the level they were defined in
+
+Inner functions can access outer functions\
+Outer functions can't access inner functions
+
+The program will go with the nearest scope when resolving variable names
+
 ## <mark style="color:red;">Classes</mark>
 
 ***
