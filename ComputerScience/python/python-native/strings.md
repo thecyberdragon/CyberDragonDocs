@@ -22,3 +22,9 @@ str.format("this will say something {0}", "nice")
 # method 2
 "This will say something {last_word}".format(last_word = "nice")
 ```
+
+#### <mark style="color:yellow;">Formatting a string</mark>
+
+```python
+new_string = str.format("This code has run {0} times!", count_variable)
+```

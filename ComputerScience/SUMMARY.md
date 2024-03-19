@@ -21,6 +21,7 @@
     * [🗃️ Openpyxl](python/modules/openpyxl.md)
     * [🗃️ Datetime](python/modules/datetime.md)
     * [🗃️ Random](python/modules/random.md)
+    * [🗃️ SQLite3](python/modules/sqlite3.md)
   * [🐍 Virtual Environments](python/virtual-environments.md)
   * [✏️ Object-Oriented Programming](python/object-oriented-programming.md)
 * [☁️ Google Cloud API](google-cloud-api.md)

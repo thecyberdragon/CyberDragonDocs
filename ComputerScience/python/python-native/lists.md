@@ -12,7 +12,7 @@ new_list = list1[:start] + list2[end+1:]
 new_list = list(range(1,101))
 ```
 
-#### <mark style="color:yellow;">Count occurences of string in a list</mark>
+#### <mark style="color:yellow;">Count occurrences of string in a list</mark>
 
 ```python
 string_count = list_variable.count("string")
@@ -34,9 +34,5 @@ sorted_list = sorted(list_variable)
 "delimiter_or_string".join(list_variable)
 ```
 
-#### <mark style="color:yellow;">Formatting a string</mark>
-
-```python
-new_string = str.format("This code has run {0} times!", count_variable)
-```
+####
 
