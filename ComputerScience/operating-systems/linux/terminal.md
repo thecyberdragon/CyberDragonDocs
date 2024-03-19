@@ -1,4 +1,4 @@
-# Terminal
+# ⌨️ Terminal
 
 ### <mark style="color:yellow;">Auto complete in terminal</mark>
 

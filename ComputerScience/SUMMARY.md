@@ -1,10 +1,9 @@
 # Table of contents
 
-* [📄 Loose Notes](README.md)
-* [Overview](overview.md)
-* [Operating Systems](operating-systems/README.md)
-  * [Linux](operating-systems/linux/README.md)
-    * [Terminal](operating-systems/linux/terminal.md)
+* [💾 Overview](README.md)
+* [💿 Operating Systems](operating-systems/README.md)
+  * [🐧 Linux](operating-systems/linux/README.md)
+    * [⌨️ Terminal](operating-systems/linux/terminal.md)
 * [🐍 Python](python/README.md)
   * [🐍 Python Native](python/python-native/README.md)
     * [🐍 Lists](python/python-native/lists.md)
