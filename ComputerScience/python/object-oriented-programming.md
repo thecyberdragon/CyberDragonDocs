@@ -27,6 +27,12 @@ Methods = functions within a class
 
 Objects can contain objects from other classes
 
+### <mark style="color:yellow;">Dunder methods</mark>
+
+These are methods that are enclosed in double underscores.
+
+\_\_init\_\_ is a dunder method.&#x20;
+
 ### <mark style="color:yellow;">Creating a class</mark>
 
 ```python
@@ -38,18 +44,34 @@ class Dog:
 			self.friendly = input_friendly
 ```
 
-\_\_init\_\_ is a constructor that defines the initial conditions of the object
+\_\_init\_\_ is a constructor that defines the initial conditions of the object.\
+self.variable in the \_\_init\_\_ dunder function is how object variables are set.
 
-#### <mark style="color:yellow;">Creating an object</mark>
+In methods, use self.variable to reference ther varables of the current object
+
+### <mark style="color:yellow;">Class functions</mark>
+
+```python
+def class Something():
+    def new_function(self, input):
+        print("Input = " + str(input))
+        
+new_something = Something()
+new_something .new_function("message")
+```
+
+When creating a function it needs the self input first but when being called, 'self' is implicit as the object being called is automatically assigned to the object.
+
+### <mark style="color:yellow;">Creating an object</mark>
 
 ```python
 new_dog = Dog("big boi", "sausage", 12, True)
 ```
 
-#### <mark style="color:yellow;">Define a new function in a class</mark>
+### <mark style="color:yellow;">Define a new function in a class</mark>
 
 ```python
-class Dog:
+class Dog():
 	def __init__(self, input_name):
 		self.name = input_name
 		self.is_happy = False
@@ -59,11 +81,17 @@ class Dog:
 		self.is_happy = True
 ```
 
-Self refers to the instance or object of the class
+Self refers to the instance / object of the class
+
+```python
+class Cat():
+    def __repr__(self):
+        return "This is a cat, and like most cats, it doesn't want your attention..."
+```
 
 A \_\_repr\_\_ function is used to print out all an object’s attributes (a custom message you define) when using print(object).
 
-#### <mark style="color:yellow;">Type & Attributes</mark>
+### <mark style="color:yellow;">Type & Attributes</mark>
 
 You can check if an object has an attribute.&#x20;
 
@@ -74,8 +102,39 @@ hasattr(object, "attribute")
 # hasattr(list, "count") will return True
 ```
 
+You can also return the value of an attribute if that class has it
+
+```python
+# Gets the attribute
+value = getattr(object, "attribute", optional_return_if_no_value)
+```
+
 Return the type of an object
 
 ```python
+# Return the type
 this_type = type(object)
+
+# Check if it's a type
+if type(object) is list
 ```
+
+Return all attributes of a given class
+
+```python
+dir(class)
+```
+
+### <mark style="color:yellow;">Create an empty class or function</mark>
+
+```python
+class DoNothing():
+    pass
+
+def nothing_function():
+    pass
+```
+
+###
+
+{% embed url="https://www.codecademy.com/resources/docs/python/dunder-methods?page_ref=catalog" %}
