@@ -364,6 +364,8 @@ quantile = pd.cut(df[ "col" ], q = 5  )
 
 ```python
 df [ "altered" ] = df [ "column" ].apply ( something )
+
+df [ "new_col" ] = df.apply(lambda x: something if x.col1 = x.col2 else "other", axis=1)
 ```
 
 ### <mark style="color:yellow;">Applying logic to a dataframe using a lambda function</mark>
